@@ -949,7 +949,7 @@ We Make Recruitment Easy!</p>
                 <!--<li><i class="bi bi-chevron-right"></i> <a href="index.php#testimonials">Testimonials</a></li>-->
                 <li><i class="bi bi-chevron-right"></i> <a href="index.php#contact">Contact</a></li>
                 <li><i class="bi bi-chevron-right"></i> <a href="instructions.php">Help</a></li>
-                <li><i class="bi bi-chevron-right"></i> <a href="https://phptest.avianglobes.com/schedule.php">Request Demo</a></li>
+                <li><i class="bi bi-chevron-right"></i> <a href="https://35.154.101.124/schedule.php">Request Demo</a></li>
             </ul>
           </div>
           <div class="col-lg-3 col-md-12 footer-contact text-center text-md-start">

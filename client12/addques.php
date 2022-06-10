@@ -354,7 +354,7 @@ body
         </div>
         <ul class="cul">
             <li><a href="addexamm.php">Create Test</a></li>
-            <li><a href="https://phptest.avianglobes.com/CLient/test.php">Schedule Test</a></li>
+            <li><a href="https://35.154.101.124/CLient/test.php">Schedule Test</a></li>
             <li><a href="../final2.php">View Result</a></a></li>
             <li><a href="../CLient/logout.php">Logout</a></li>
             <li><div><a href="#"><i class="fas fa-user icon"></i></a></div></li>
@@ -362,7 +362,7 @@ body
         <div class="toggle-item" id="toggle-item">
             <div class="item"><a href="addexamm.php">Create Test</a></div>
             <hr>
-            <div class="item"><a href="https://phptest.avianglobes.com/CLient/test.php">Schedule Test</a></div>
+            <div class="item"><a href="https://35.154.101.124/CLient/test.php">Schedule Test</a></div>
             <hr>
             <div class="item"><a href="../final2.php">View Result</a></a></li></div>
             <div class="item"><a href="../CLient/logout.php">Logout</a></div>

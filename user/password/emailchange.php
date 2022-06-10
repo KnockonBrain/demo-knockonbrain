@@ -15,7 +15,7 @@
 <link rel="icon" type="image/jpg" href="../../images/fevicon.jpg"/>
 <style>
 body{
-    background-image:url("https://phptest.avianglobes.com/wp-content/uploads/2020/06/bg-blob-gradient.svg");
+    background-image:url("https://35.154.101.124/wp-content/uploads/2020/06/bg-blob-gradient.svg");
  background-repeat:no-repeat;
    background-size:cover;
    

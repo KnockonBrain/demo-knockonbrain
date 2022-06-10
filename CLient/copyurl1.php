@@ -24,7 +24,7 @@ $resultid=$resultid['id'];
 if($lang=="ocean")
     $result="https://test.knockonbrain.com/start/";
 else
-     $result="https://phptest.avianglobes.com/Personality_Assessment/assign.php";
+     $result="https://35.154.101.124/Personality_Assessment/assign.php";
     $testlink=$result."?cid=".$cid."&id=".$resultid."&m1=".null;
     
 ?><!DOCTYPE html>

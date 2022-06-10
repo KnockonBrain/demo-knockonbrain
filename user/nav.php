@@ -140,7 +140,7 @@ input[type=checkbox]:checked ~ .menu{
  <body>
  <nav class="navbar">
  <!-- LOGO -->
- <a href="https://phptest.avianglobes.com" style="text-decoration: none; color: white">
+ <a href="https://35.154.101.124" style="text-decoration: none; color: white">
     <div style="display: flex; margin-left: 20px">
         <img src="./logok.png" style="width: 70px; margin-left: 10px;">
         <p style="margin-top: 15px; margin-left: 6px; font-size: 22px;">Knock On Brain</p>
@@ -155,7 +155,7 @@ input[type=checkbox]:checked ~ .menu{
  <div class="menu">
  <li><a href="#home" class="active" style="color: #1cffe1;">Subscription Plans</a></li>
  <li><a href="#addons">Add-Ons</a></li>
- <li><a href="https://phptest.avianglobes.com/user/mcq.php">Dashboard</a></li>
+ <li><a href="https://35.154.101.124/user/mcq.php">Dashboard</a></li>
  </div>
  </ul>
  </nav>

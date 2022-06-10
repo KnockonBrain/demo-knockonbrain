@@ -686,7 +686,7 @@ else{?>
     <body>
         <div class="main">
             <p class="logn" align="center">Please Login First</p>
-            <center><button class="jbtn" align="center" onclick="window.location.href = 'https://phptest.avianglobes.com/register.php';"><b>LOG IN</b>&nbsp;<i class="fa fa-arrow-right" aria-hidden="true" style="color:white"></i></button></center>
+            <center><button class="jbtn" align="center" onclick="window.location.href = 'https://35.154.101.124/register.php';"><b>LOG IN</b>&nbsp;<i class="fa fa-arrow-right" aria-hidden="true" style="color:white"></i></button></center>
         </div>
     </body> 
 <?php

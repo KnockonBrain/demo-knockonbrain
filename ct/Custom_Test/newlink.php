@@ -12,17 +12,17 @@ $data_attempt = mysqli_fetch_array($attempt);
 if ( $_SESSION[$getname] == 0 ){   //If already attempted question
         echo '<script type="text/javascript">';
         echo 'alert("Already attempted!");';
-        echo 'window.location.href = "https://phptest.avianglobes.com/ct/Custom_Test/test.php";';
+        echo 'window.location.href = "https://35.154.101.124/ct/Custom_Test/test.php";';
         echo '</script>';
     } 
     else {   //if not attempted
         $_SESSION[$getname] = 0;
         if($data_attempt[0]<1){
-        header("location:https://phptest.avianglobes.com/php/test/index.php?cid=$cid&id=$m&tid=$t&m1=$m1&f=1");
+        header("location:https://35.154.101.124/php/test/index.php?cid=$cid&id=$m&tid=$t&m1=$m1&f=1");
         }else{
              echo '<script type="text/javascript">';
         echo 'alert("Overall attempts over");';
-        echo 'window.location.href = "https://phptest.avianglobes.com/ct/Custom_Test/test.php";';
+        echo 'window.location.href = "https://35.154.101.124/ct/Custom_Test/test.php";';
         echo '</script>';
         }
     }

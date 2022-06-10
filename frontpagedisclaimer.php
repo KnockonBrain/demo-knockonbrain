@@ -203,7 +203,7 @@ s0.parentNode.insertBefore(s1,s0);
           <div class="col-lg-8 d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="200">
             <div class="content">
               <h2> knockonbrain.com</h2>
-                 <p>All the information on this website – https://phptest.avianglobes.com – is published in good faith and for general information 
+                 <p>All the information on this website – https://35.154.101.124 – is published in good faith and for general information 
                  purpose only. knockonbrain.com does not make any warranty about the completeness, reliability and accuracy of the 
                  information/assessment.<br><br> Any action you take upon the information you find on this website (knockonbrain.com), is strictly 
                  at your own risk. knockonbrain.com will not be liable for any losses and/or damages in connection with the use of our website.

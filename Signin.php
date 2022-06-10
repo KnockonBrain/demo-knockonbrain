@@ -1293,7 +1293,7 @@ s0.parentNode.insertBefore(s1,s0);
             	<input type="password" name="password" placeholder="Password" autocomplete="new-password"  required="">
             </div>
             
-            <a href="https://phptest.avianglobes.com/CLient/forgetPassword/jforget.php" style="color:#67B2E0;">Forgot password?</a>
+            <a href="https://35.154.101.124/CLient/forgetPassword/jforget.php" style="color:#67B2E0;">Forgot password?</a>
             
             <input type="submit" class="btn"  name="login_user" value="Login" />
             <h1 class="title" style="font-weight:100;font-size: 0.9em;"> Don't have an account?</h1>
@@ -1693,9 +1693,9 @@ Knock on Brain.</p>
           <div class="col-lg-3 col-md-6 footer-links">
             <h4>Our Services</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="https://phptest.avianglobes.com/">Tech Scope</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="https://phptest.avianglobes.com/">Online Assessment</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="https://phptest.avianglobes.com/">Custom Solution For Corporates</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://35.154.101.124/">Tech Scope</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://35.154.101.124/">Online Assessment</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://35.154.101.124/">Custom Solution For Corporates</a></li>
             </ul>
           </div>
 

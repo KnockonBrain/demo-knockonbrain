@@ -10,7 +10,7 @@
             $email=$_SESSION['email'];
             $sql1 = "INSERT INTO feedback (email,test_name,rating,comment) VALUES ('$email','$test','".$_POST["rating"]."','".$_POST["comment"]."')";
             $result = mysqli_query($con,$sql1);
-            //header("Location: https://phptest.avianglobes.com/php/test/feedbacksubmit.php");
+            //header("Location: https://35.154.101.124/php/test/feedbacksubmit.php");
             session_destroy();
         }
    

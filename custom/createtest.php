@@ -507,7 +507,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <?php
     if(isset($_POST["submit1"]))
     {   
-        $query="insert into exam_category values(NULL,'$_POST[examname]','$_POST[examtime]','$_POST[noq]','https://phptest.avianglobes.com/php/test/index.php', '$username', $cid, (select mid from main_category where mname='$_POST[main_category]'), '$resultvnew')";
+        $query="insert into exam_category values(NULL,'$_POST[examname]','$_POST[examtime]','$_POST[noq]','https://35.154.101.124/php/test/index.php', '$username', $cid, (select mid from main_category where mname='$_POST[main_category]'), '$resultvnew')";
         mysqli_query($link,$query) or die(mysqli_error($link));
 ?>
         <script type="text/javascript">
@@ -635,7 +635,7 @@ else{?>
     <body>
         <div class="main">
             <p class="logn" align="center">Please Login First</p>
-            <center><button class="jbtn" align="center" onclick="window.location.href = 'https://phptest.avianglobes.com/register.php';"><b>LOG IN</b>&nbsp;<i class="fa fa-arrow-right" aria-hidden="true" style="color:white"></i></button></center>
+            <center><button class="jbtn" align="center" onclick="window.location.href = 'https://35.154.101.124/register.php';"><b>LOG IN</b>&nbsp;<i class="fa fa-arrow-right" aria-hidden="true" style="color:white"></i></button></center>
         </div>
     </body> 
 <?php

@@ -46,7 +46,7 @@ drift.load('ntw3vk4zr7ni');
 
   <style>
    body{
-   //background-image:url("https://phptest.avianglobes.com/wp-content/uploads/2021/03/white-technology-background_23-2148390335.jpg");
+   //background-image:url("https://35.154.101.124/wp-content/uploads/2021/03/white-technology-background_23-2148390335.jpg");
    background-image:url("../images/bg-blob-gradient.svg");
    background-repeat:no-repeat;
    background-size:cover;
@@ -321,9 +321,9 @@ foreach($res as $m)
 			
 		echo "<br>";		
 // 	echo "<center><p class='text-center'style='font-family:sans-serif;margin-top:40px;'><b><i>i:</i></b>&nbsp;Applicant will receive test link on above Email.<br><b>Please inform the applicant to check his spam folder too.</b></center>";			
-//     echo "<div class='container text-center'><a href='https://phptest.avianglobes.com/CLient/test.php'".$cname."/'><button class='feedback2' style='margin-top:60px;'>Schedule More Test</button></a></div>";		
+//     echo "<div class='container text-center'><a href='https://35.154.101.124/CLient/test.php'".$cname."/'><button class='feedback2' style='margin-top:60px;'>Schedule More Test</button></a></div>";		
 	echo "<center><p class='text-center'style='font-family:sans-serif;margin-top:40px;'><b><i>i:</i></b>&nbsp;Applicant will receive test link on above Email.</p></center>";
 	echo "<center><p class='text-center'style='font-family:sans-serif;margin-top:-40px; font-size:30px;color:red;'><br><b>Please inform the applicant to check his spam folder too.</b></p></center>";			
-    echo "<div class='container text-center'><a href='https://phptest.avianglobes.com/CLient/test.php'".$cname."/'><button class='feedback2' style='margin-top:60px;'>Schedule More Test</button></a></div>";		
+    echo "<div class='container text-center'><a href='https://35.154.101.124/CLient/test.php'".$cname."/'><button class='feedback2' style='margin-top:60px;'>Schedule More Test</button></a></div>";		
 	
 ?>

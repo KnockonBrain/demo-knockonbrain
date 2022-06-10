@@ -85,7 +85,7 @@ drift.load('ntw3vk4zr7ni');
                 };
             }
             $.ajax({
-                url:'https://phptest.avianglobes.com/final1.php?filter=all',
+                url:'https://35.154.101.124/final1.php?filter=all',
                 type:'GET',
                 success:function(data){
                     var d = JSON.parse(data);
@@ -95,7 +95,7 @@ drift.load('ntw3vk4zr7ni');
             $('#filter').on('change',function(){
                 var filter = $(this).val();
                 $.ajax({
-                url:'https://phptest.avianglobes.com/final1.php?filter='+filter,
+                url:'https://35.154.101.124/final1.php?filter='+filter,
                 type:'GET',
                 success:function(data){
                     var d = JSON.parse(data);
@@ -618,12 +618,12 @@ p.copyright {
         <i class="fa fa-bars nav_btn"></i>
       </div>
       <div class="mobile_nav_items">
-        <a href="https://phptest.avianglobes.com/CLient/profile.php"><i class="fa fa-user" aria-hidden="true"></i><span>Profile</span></a>
-        <a href="https://phptest.avianglobes.com/CLient/test.php"><i class="fa fa-calendar-plus-o" aria-hidden="true"></i><span>Schedule Test</span></a>
+        <a href="https://35.154.101.124/CLient/profile.php"><i class="fa fa-user" aria-hidden="true"></i><span>Profile</span></a>
+        <a href="https://35.154.101.124/CLient/test.php"><i class="fa fa-calendar-plus-o" aria-hidden="true"></i><span>Schedule Test</span></a>
         
         <a href="../final2.php"><i class="fa fa-check-square-o" aria-hidden="true"></i><span>View Results</span></a>
-        <a href="https://phptest.avianglobes.com/client12/addexamm.php"><i class="fa fa-pencil-square-o" aria-hidden="true"></i><span>Custom Test</span></a>
-        <a href="https://phptest.avianglobes.com/CLient/logout.php"><i class="fa fa-sign-out" aria-hidden="true"></i><span>Logout</span></a>
+        <a href="https://35.154.101.124/client12/addexamm.php"><i class="fa fa-pencil-square-o" aria-hidden="true"></i><span>Custom Test</span></a>
+        <a href="https://35.154.101.124/CLient/logout.php"><i class="fa fa-sign-out" aria-hidden="true"></i><span>Logout</span></a>
       </div>
     </div>
     <!--mobile navigation bar end-->
@@ -631,14 +631,14 @@ p.copyright {
     <!--sidebar start-->
     <div class="sidebar">
       <div class="profile_info">
-        <a href="https://phptest.avianglobes.com/CLient/profile.php"><img class="profile_image" src="https://d338t8kmirgyke.cloudfront.net/icons/icon_pngs/000/004/088/original/user.png" style="margin-bottom: 20px;"></img></a>
+        <a href="https://35.154.101.124/CLient/profile.php"><img class="profile_image" src="https://d338t8kmirgyke.cloudfront.net/icons/icon_pngs/000/004/088/original/user.png" style="margin-bottom: 20px;"></img></a>
         
       </div>
-      <a href="https://phptest.avianglobes.com/CLient/test.php"><i class="fa fa-calendar-plus-o" aria-hidden="true"></i><span>Schedule Test</span></a>
+      <a href="https://35.154.101.124/CLient/test.php"><i class="fa fa-calendar-plus-o" aria-hidden="true"></i><span>Schedule Test</span></a>
         
         <a href="../final2.php"><i class="fa fa-trophy" aria-hidden="true"></i><span>View Results</span></a>
-        <a href="https://phptest.avianglobes.com/client12/addexamm.php"><i class="fa fa-pencil-square-o" aria-hidden="true"></i><span>Custom Test</span></a>
-        <a href="https://phptest.avianglobes.com/CLient/logout.php"><i class="fa fa-sign-out" aria-hidden="true"></i><span>Logout</span></a>
+        <a href="https://35.154.101.124/client12/addexamm.php"><i class="fa fa-pencil-square-o" aria-hidden="true"></i><span>Custom Test</span></a>
+        <a href="https://35.154.101.124/CLient/logout.php"><i class="fa fa-sign-out" aria-hidden="true"></i><span>Logout</span></a>
     </div>
     <!--sidebar end-->
     

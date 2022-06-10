@@ -34,7 +34,7 @@
                         <div class="collapse navbar-collapse" id="navbarSupportedContent">
                             <ul class="navbar-nav mx-auto">
                                 <li class="nav-item">
-                                <a class="dropdown-item" href="https://phptest.avianglobes.com/CLient/test.php" >Send invite
+                                <a class="dropdown-item" href="https://35.154.101.124/CLient/test.php" >Send invite
                                          <span class="sr-only">(current)</span> 
                                     </a>
                                 </li>

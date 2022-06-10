@@ -85,7 +85,7 @@
       <div class="subheading" id="account">
         <h2>How to create an account on KnockOnBrain?</h2>
           <div class="content">
-            <p>Visit: <a href="https://phptest.avianglobes.com">https://phptest.avianglobes.com</a> to create a new account on KnockOnBrain and click on "SignIn/Register" button.
+            <p>Visit: <a href="https://35.154.101.124">https://35.154.101.124</a> to create a new account on KnockOnBrain and click on "SignIn/Register" button.
               <ul>
                 <li><b>STEP 1: NEW USER REGISTRATION</b>
                   <ul>
@@ -99,7 +99,7 @@
               <br>
               <li><b>STEP 2: HAVE AN ACCOUNT, NEED TO SIGN-IN?</b>
                 <ul>
-                    <li>Click on "SignIn/Register" button, you will be redirected to <a href="https://phptest.avianglobes.com/register.php">login</a> page.</li>
+                    <li>Click on "SignIn/Register" button, you will be redirected to <a href="https://35.154.101.124/register.php">login</a> page.</li>
                     <li>Enter your Email and Password and click on "Login". Once you signed in, you will be redirected to your dashboard.</li>
                     <img src="../images/instructionsimages/img3.jpeg">
                 </ul>
@@ -332,7 +332,7 @@
               <ul>
               <li>Click on "SignIn/Register" button, you will be redirected to login page.</li>
               <img src="../images/instructionsimages/img1.jpeg">
-              <li>Click on "<a href="https://phptest.avianglobes.com/CLient/forgetPassword/jforget.php">forgot your password?</a>", redirected to next page here need to enter your email address and click on "Submit".</li>
+              <li>Click on "<a href="https://35.154.101.124/CLient/forgetPassword/jforget.php">forgot your password?</a>", redirected to next page here need to enter your email address and click on "Submit".</li>
               <img src="../images/instructionsimages/img21.jpeg">
               <img src="../images/instructionsimages/img22.jpeg">
               <li>Link to reset the password for your account will be sent on provided email id.</li>
@@ -341,7 +341,7 @@
               <li>You will be prompted to "Change Password", enter a new password and submit it.</li>
               <img src="../images/instructionsimages/img24.jpeg">
               <img src="../images/instructionsimages/img25.jpeg">
-              <li>Navigate back to <a href="https://phptest.avianglobes.com/register.php">login</a> page and sign-in with new login credentials.</li>
+              <li>Navigate back to <a href="https://35.154.101.124/register.php">login</a> page and sign-in with new login credentials.</li>
             </ul>
           </div>
       </div>

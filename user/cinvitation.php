@@ -41,7 +41,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     
 <style>
    body{
-       /*background-image:url("https://phptest.avianglobes.com/wp-content/uploads/2021/03/white-technology-background_23-2148390335.jpg");*/
+       /*background-image:url("https://35.154.101.124/wp-content/uploads/2021/03/white-technology-background_23-2148390335.jpg");*/
        background-image:url("../images/bg.jpg");
        background-repeat:no-repeat;
        background-size:cover;
@@ -138,7 +138,7 @@ $stmt1->execute([$cid,$date]);
 $resultid=$stmt1->fetch();
 $resultid=$resultid['id'];
 
-$result="https://phptest.avianglobes.com/code/start.php";
+$result="https://35.154.101.124/code/start.php";
 
 /*$to=explode(",",$_GET['address']);*/
 //$to=$_SESSION['email'];
@@ -246,7 +246,7 @@ foreach($res as $m)
                 
                 If the above button does not work for you, attempt the test through the given link: '.$result."?cid=".$cid."&id=".$resultid."&lang=".$lang."&m1=".$m['email'].'
                 <br><br>
-                If you stuck anywhere while starting the test please check <a href="https://phptest.avianglobes.com/candidate_instructions.php">Instructions</a>.
+                If you stuck anywhere while starting the test please check <a href="https://35.154.101.124/candidate_instructions.php">Instructions</a>.
                 
                 <br><br>
                 
@@ -287,7 +287,7 @@ foreach($res as $m)
 		
 	echo "<center><p class='text-center'style='font-family:sans-serif;margin-top:40px;'><b><i>i:</i></b>&nbsp;Applicant will receive test link on above email.</p></center>";
 	echo "<center><p class='text-center'style='font-family:sans-serif;margin-top:-40px; font-size:25px;color:red;'><br><b>Please inform applicant to check his spam folder too for assessment invitation.</b></p></center>";			
-    echo "<div class='container text-center'><a href='https://phptest.avianglobes.com/user/coding.php'".$cname."/'><button class='feedback2' style='margin-top:0.6rem'>Schedule More Test</button></a></div>";		
+    echo "<div class='container text-center'><a href='https://35.154.101.124/user/coding.php'".$cname."/'><button class='feedback2' style='margin-top:0.6rem'>Schedule More Test</button></a></div>";		
 	
 ?>
 </html>

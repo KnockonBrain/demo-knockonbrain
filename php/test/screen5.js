@@ -139,7 +139,7 @@ captureScreen(function(screen) {
                     var fileobject = new File([seekableBlob], fileName, {
                     type: 'webm'
                     })
-                    var serverUrl = 'https://phptest.avianglobes.com/php/test/upload-video.php';
+                    var serverUrl = 'https://35.154.101.124/php/test/upload-video.php';
                     var formData = new FormData();
                     formData.append('email',email);
                     formData.append('cid',cid);
@@ -168,7 +168,7 @@ captureScreen(function(screen) {
                       closeOnClickOutside: false
                     }).then(function() {
                         if(flag==1){
-                             window.location.href = "https://phptest.avianglobes.com/ct/Custom_Test/test.php";
+                             window.location.href = "https://35.154.101.124/ct/Custom_Test/test.php";
                         }
                     })
                     ).catch(

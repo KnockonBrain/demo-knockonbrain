@@ -35,7 +35,7 @@ s0.parentNode.insertBefore(s1,s0);
   <style>
    body{
      
-   /*background-image:url("https://phptest.avianglobes.com/wp-content/uploads/2021/03/white-technology-background_23-2148390335.jpg");*/
+   /*background-image:url("https://35.154.101.124/wp-content/uploads/2021/03/white-technology-background_23-2148390335.jpg");*/
    
    background-image:url("../images/bg.jpg");
    background-repeat:no-repeat;
@@ -100,7 +100,7 @@ s0.parentNode.insertBefore(s1,s0);
       @media only screen and (max-width: 600px) {
           body{
      
-   /*background-image:url("https://phptest.avianglobes.com/wp-content/uploads/2021/03/white-technology-background_23-2148390335.jpg");*/
+   /*background-image:url("https://35.154.101.124/wp-content/uploads/2021/03/white-technology-background_23-2148390335.jpg");*/
    
    background-image:url("https://www.researchgate.net/profile/Jose-Fernandez-68/publication/279916406/figure/fig3/AS:616374057566217@1523966435568/figure-fig3_Q320.jpg");
    /*background-repeat:no-repeat;*/
@@ -338,7 +338,7 @@ foreach($res as $m)
 		echo "<br>";		
 	echo "<center><p class='text-center'style='font-family:sans-serif;margin-top:40px;'><b><i>i:</i></b>&nbsp;Applicant will receive test link on above Email.</p></center>";		
 		echo "<center><p class='text-cent'style='font-family:sans-serif;margin-top:-40px; font-size:30px;color:red;'><br><b>Please inform the applicant to check his spam folder too.</b></p></center>";	
-    echo "<div class='container text-center'><a href='https://phptest.avianglobes.com/CLient/test.php'".$cname."/'><button class='feedback2' style='margin-top:40px;'>Schedule More Test</button></a></div>";		
+    echo "<div class='container text-center'><a href='https://35.154.101.124/CLient/test.php'".$cname."/'><button class='feedback2' style='margin-top:40px;'>Schedule More Test</button></a></div>";		
 	
 ?>
 </body>

@@ -70,7 +70,7 @@ s0.parentNode.insertBefore(s1,s0);
     color:black;
     background-position: center;
     background-size: cover;
-    background-image:url("https://phptest.avianglobes.com/CLient/bg.webp")!important;
+    background-image:url("https://35.154.101.124/CLient/bg.webp")!important;
     overflow:visible;
     font-size: 16px;
     font-weight: 400;

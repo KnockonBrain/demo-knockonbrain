@@ -12,7 +12,7 @@ date_default_timezone_set("Asia/Kolkata");
 
 $data = array('m1'=>'','tid'=>$tid,'cid'=>$cid,'exp'=>$exp);
 
-$testlink="https://phptest.avianglobes.com/ct/Custom_Test/start.php?".http_build_query($data);
+$testlink="https://35.154.101.124/ct/Custom_Test/start.php?".http_build_query($data);
 
 ?>
 <!DOCTYPE html>

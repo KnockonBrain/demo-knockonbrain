@@ -622,11 +622,11 @@ p.copyright {
         <i class="fa fa-bars nav_btn"></i>
       </div>
       <div class="mobile_nav_items">
-        <a href="https://phptest.avianglobes.com/CLient/profile.php"><i class="fa fa-user" aria-hidden="true"></i><span>Profile</span></a>
-        <a href="https://phptest.avianglobes.com/CLient/test.php"><i class="fa fa-calendar-plus-o" aria-hidden="true"></i><span>Schedule Test</span></a>
+        <a href="https://35.154.101.124/CLient/profile.php"><i class="fa fa-user" aria-hidden="true"></i><span>Profile</span></a>
+        <a href="https://35.154.101.124/CLient/test.php"><i class="fa fa-calendar-plus-o" aria-hidden="true"></i><span>Schedule Test</span></a>
         <a href="../final2.php"><i class="fa fa-check-square-o" aria-hidden="true"></i><span>View Results</span></a>
-        <a href="https://phptest.avianglobes.com/client12/addexamm.php"><i class="fa fa-pencil-square-o" aria-hidden="true"></i><span>Custom Test</span></a>
-        <a href="https://phptest.avianglobes.com/CLient/logout.php"><i class="fa fa-sign-out" aria-hidden="true"></i><span>Logout</span></a>
+        <a href="https://35.154.101.124/client12/addexamm.php"><i class="fa fa-pencil-square-o" aria-hidden="true"></i><span>Custom Test</span></a>
+        <a href="https://35.154.101.124/CLient/logout.php"><i class="fa fa-sign-out" aria-hidden="true"></i><span>Logout</span></a>
       </div>
     </div>
     <!--mobile navigation bar end-->
@@ -634,13 +634,13 @@ p.copyright {
     <!--sidebar start-->
     <div class="sidebar">
       <div class="profile_info">
-        <a href="https://phptest.avianglobes.com/CLient/profile.php"><img class="profile_image" src="https://d338t8kmirgyke.cloudfront.net/icons/icon_pngs/000/004/088/original/user.png"></img></a>
+        <a href="https://35.154.101.124/CLient/profile.php"><img class="profile_image" src="https://d338t8kmirgyke.cloudfront.net/icons/icon_pngs/000/004/088/original/user.png"></img></a>
         
       </div>
-      <a href="https://phptest.avianglobes.com/CLient/test.php"><i class="fa fa-calendar-plus-o" aria-hidden="true"></i><span>Schedule Test</span></a>
+      <a href="https://35.154.101.124/CLient/test.php"><i class="fa fa-calendar-plus-o" aria-hidden="true"></i><span>Schedule Test</span></a>
         <a href="../final2.php"><i class="fa fa-trophy" aria-hidden="true"></i><span>View Results</span></a>
-        <a href="https://phptest.avianglobes.com/client12/addexamm.php"><i class="fa fa-pencil-square-o" aria-hidden="true"></i><span>Custom Test</span></a>
-        <a href="https://phptest.avianglobes.com/CLient/logout.php"><i class="fa fa-sign-out" aria-hidden="true"></i><span>Logout</span></a>
+        <a href="https://35.154.101.124/client12/addexamm.php"><i class="fa fa-pencil-square-o" aria-hidden="true"></i><span>Custom Test</span></a>
+        <a href="https://35.154.101.124/CLient/logout.php"><i class="fa fa-sign-out" aria-hidden="true"></i><span>Logout</span></a>
     </div>
     <!--sidebar end-->
 
@@ -756,7 +756,7 @@ p.copyright {
  <?php
  if(isset($_POST["submit1"]))
     {   
-        $query="insert into exam_category values(NULL,'$_POST[examname]','$_POST[examtime]','$_POST[noq]','https://phptest.avianglobes.com/php/test/index.php', '$username', $cid)";
+        $query="insert into exam_category values(NULL,'$_POST[examname]','$_POST[examtime]','$_POST[noq]','https://35.154.101.124/php/test/index.php', '$username', $cid)";
         mysqli_query($link,$query) or die(mysqli_error($link));
            ?>
         <script type="text/javascript">
@@ -832,7 +832,7 @@ button:hover
 <body>
 <div class="main">
 <p class="logn" align="center">Please Login First</p>
-  <button class="submit" align="center" onclick="window.location.href = 'https://phptest.avianglobes.com/index.php';"><b>LOG IN</b>&nbsp;<i class="fa fa-arrow-right" aria-hidden="true" style="color:white"></i></button>
+  <button class="submit" align="center" onclick="window.location.href = 'https://35.154.101.124/index.php';"><b>LOG IN</b>&nbsp;<i class="fa fa-arrow-right" aria-hidden="true" style="color:white"></i></button>
 </div>
 </body> 
 <?}

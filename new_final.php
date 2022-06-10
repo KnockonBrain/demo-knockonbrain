@@ -85,7 +85,7 @@ drift.load('ntw3vk4zr7ni');
                 };
             }
             $.ajax({
-                url:'https://phptest.avianglobes.com/final1.php?filter=all',
+                url:'https://35.154.101.124/final1.php?filter=all',
                 type:'GET',
                 success:function(data){
                     var d = JSON.parse(data);
@@ -95,7 +95,7 @@ drift.load('ntw3vk4zr7ni');
             $('#filter').on('change',function(){
                 var filter = $(this).val();
                 $.ajax({
-                url:'https://phptest.avianglobes.com/final1.php?filter='+filter,
+                url:'https://35.154.101.124/final1.php?filter='+filter,
                 type:'GET',
                 success:function(data){
                     var d = JSON.parse(data);

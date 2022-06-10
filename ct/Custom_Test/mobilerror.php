@@ -35,7 +35,7 @@
 				
 			</div>
 			<h3><b>You cannot access the test from this device!!!</b></h3>
-			<!--<a href="https://phptest.avianglobes.com/">Go TO Homepage</a>-->
+			<!--<a href="https://35.154.101.124/">Go TO Homepage</a>-->
 		</div>
 	</div>
 

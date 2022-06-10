@@ -855,7 +855,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <i class="fas fa-lock"></i>
              	<input type="password" name="password" placeholder="Password" autocomplete="new-password" required="">
             </div>
-            <a href="https://phptest.avianglobes.com/user/forgetPassword/jforget.php" style="color:#67B2E0;">Forgot your password?</a>
+            <a href="https://35.154.101.124/user/forgetPassword/jforget.php" style="color:#67B2E0;">Forgot your password?</a>
             <input type="submit" value="Login"  name="login_user" class="btn solid" />
             <h1 class="title" style="font-weight:100;font-size: 0.9em;"> Don't have an account?</h1>
            <a class="btn transparent" id="sign-up-btn" style="color:#67B2E0;">

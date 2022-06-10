@@ -314,7 +314,7 @@ if ($sql)
             <button class="openbtn" id="nav-toggle" onclick="openNav()"><i class="fas fa-bars icon"></i></button>
         </div>
         <ul class="cul">
-            <li><a href="href="https://phptest.avianglobes.com/CLient/test.php"">Send Invite</a></li>
+            <li><a href="href="https://35.154.101.124/CLient/test.php"">Send Invite</a></li>
             <li><a href="exam_category.php">Add Exam</a></li>
             <li><a href="../CLient/logout.php">Logout</a></li>
         </ul>

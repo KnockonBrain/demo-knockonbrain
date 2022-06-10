@@ -23,7 +23,7 @@ $anspri = isset($_POST['anspri'])?$_POST['anspri']:'';
 $quesstr= serialize( $quespri );
 $ansstr= serialize( $anspri );
 $sql = "INSERT INTO `results` (`quiz_id`,`cid`,`can_name`,`durmin`,`dursec`,`quiz_name`,`correct_score`,`Email`,`scoreper`,`Start_time`,`video_link`,`id`,`ques`,`answer`) 
-        VALUES ('$quiz_id','$client_id','$can_name','$durmin','$dursec','$quiz_name','$score','$email','$scoreper','$Start_time','https://phptest.avianglobes.com/php/test/upload/$fileName','$id','$quesstr','$ansstr')";
+        VALUES ('$quiz_id','$client_id','$can_name','$durmin','$dursec','$quiz_name','$score','$email','$scoreper','$Start_time','https://35.154.101.124/php/test/upload/$fileName','$id','$quesstr','$ansstr')";
 
 $result = mysqli_query($conn,$sql);
 

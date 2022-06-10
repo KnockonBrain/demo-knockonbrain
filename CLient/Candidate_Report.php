@@ -628,7 +628,7 @@ $newrid= $data_attempt1['result_id'];
 <?php
     if($typec!='trial' && $expdate>=$todayd){
         ?>
-        <b><a href="https://phptest.avianglobes.com/CLient/AnswerSheet.php?rid=
+        <b><a href="https://35.154.101.124/CLient/AnswerSheet.php?rid=
         <?php
             echo $newrid;
         ?>"
@@ -946,7 +946,7 @@ echo "<b>Description:</b> <i>";
 <?php
     if($typec!='trial' && $expdate>=$todayd){
         ?>
-        <b><a href="https://phptest.avianglobes.com/CLient/AnswerSheet.php?rid=
+        <b><a href="https://35.154.101.124/CLient/AnswerSheet.php?rid=
         <?php
             echo $newrid;
         ?>"

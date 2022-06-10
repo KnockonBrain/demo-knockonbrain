@@ -666,7 +666,7 @@ $newrid= $data_attempt1['result_id'];
 <?php
     if($typec!='trial' && $expdate>=$todayd){
         ?>
-        <b><a href="https://phptest.avianglobes.com/user/answersheet.php?rid=
+        <b><a href="https://35.154.101.124/user/answersheet.php?rid=
         <?php
             echo $newrid;
         ?>"
@@ -988,7 +988,7 @@ echo "<b>Description:</b> <i>";
 <?php
     if($typec!='trial' && $expdate>=$todayd){
         ?>
-        <b><a href="https://phptest.avianglobes.com/user/answersheet.php?rid=
+        <b><a href="https://35.154.101.124/user/answersheet.php?rid=
         <?php
             echo $newrid;
         ?>"
@@ -1262,7 +1262,7 @@ $crid=$data['rid']
 <?php
     if($typec!='trial' && $expdate>=$todayd){
         ?>
-        <b><a href="https://phptest.avianglobes.com/user/Coding_AnswerSheet.php?rid=
+        <b><a href="https://35.154.101.124/user/Coding_AnswerSheet.php?rid=
         <?php
             echo $crid;
         ?>"

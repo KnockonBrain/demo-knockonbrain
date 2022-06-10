@@ -31,7 +31,7 @@ global $current_user;
 
  <style>
    body{
-       /*background-image:url("https://phptest.avianglobes.com/wp-content/uploads/2021/03/white-technology-background_23-2148390335.jpg");*/
+       /*background-image:url("https://35.154.101.124/wp-content/uploads/2021/03/white-technology-background_23-2148390335.jpg");*/
        background-image:url("../images/bg.jpg");
        background-repeat:no-repeat;
        background-size:cover;
@@ -165,7 +165,7 @@ $stmt->execute();*/
 if($lang=="ocean")
 $result="https://test.knockonbrain.com/start/";
 else
-$result="https://phptest.avianglobes.com/Personality_Assessment/start.php";
+$result="https://35.154.101.124/Personality_Assessment/start.php";
 //echo $result['link'];
 
 
@@ -275,7 +275,7 @@ foreach($res as $m)
                 
                 If the above button does not work for you, attempt the test through the given link: '.$result."?cid=".$cid."&id=".$resultid."&m1=".$m['email'].'
                 <br><br>
-                If you stuck anywhere while starting the test please check <a href="https://phptest.avianglobes.com/candidate_instructions.php">Instructions</a>.
+                If you stuck anywhere while starting the test please check <a href="https://35.154.101.124/candidate_instructions.php">Instructions</a>.
                 
                 <br><br>
                 
@@ -316,7 +316,7 @@ foreach($res as $m)
 		
 	echo "<center><p class='text-center'style='font-family:sans-serif;margin-top:40px;'><b><i>i:</i></b>&nbsp;Applicant will receive test link on above email.</p></center>";
 	echo "<center><p class='text-center'style='font-family:sans-serif;margin-top:-40px; font-size:25px;color:red;'><br><b>Please inform applicant to check his spam folder too for invitation assessment.</b></p></center>";			
-    echo "<div class='container text-center'><a href='https://phptest.avianglobes.com/CLient/psychotest.php'".$cname."/'><button class='feedback2' style='margin-top:0.6rem'>Schedule More Test</button></a></div>";		
+    echo "<div class='container text-center'><a href='https://35.154.101.124/CLient/psychotest.php'".$cname."/'><button class='feedback2' style='margin-top:0.6rem'>Schedule More Test</button></a></div>";		
 	
 ?>
 </html>

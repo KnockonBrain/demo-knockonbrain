@@ -173,7 +173,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <a class="nav-link scrollto" href="candidate_instructions.php">Candidate Instructions</a>
             </div>
             </li>
-             <li><a class="nav-link scrollto" href="https://phptest.avianglobes.com/schedule.php">Request Demo</a></li>
+             <li><a class="nav-link scrollto" href="https://35.154.101.124/schedule.php">Request Demo</a></li>
             
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>

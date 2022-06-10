@@ -106,7 +106,7 @@ if(isset($_SESSION['ID'])) {
 <?php
          if(isset($_POST["submit1"]))
             {   
-                $query="insert into exam_category values(NULL,'$username.$_POST[examname]','$_POST[examtime]','https://phptest.avianglobes.com/php/test/index.php', $cid)";
+                $query="insert into exam_category values(NULL,'$username.$_POST[examname]','$_POST[examtime]','https://35.154.101.124/php/test/index.php', $cid)";
                 mysqli_query($link,$query) or die(mysqli_error($link));
                    ?>
                 <script type="text/javascript">

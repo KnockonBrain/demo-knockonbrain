@@ -360,7 +360,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <hr>
     
     <br>
-    <center><h3>If you still need help, you can always reach out to the <a href="https://phptest.avianglobes.com/index.php#contact">support team</a>. We're happy to answer your questions.</h3></center>
+    <center><h3>If you still need help, you can always reach out to the <a href="https://35.154.101.124/index.php#contact">support team</a>. We're happy to answer your questions.</h3></center>
     <br>
     
   </div>

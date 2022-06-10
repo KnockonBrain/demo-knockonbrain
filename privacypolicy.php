@@ -142,7 +142,7 @@ At our discretion, we may change our privacy policy to reflect updates to our bu
 <br><br><b>Contact Us</b><br><br>
 For any questions or concerns regarding your privacy, you may contact us using the following details:<br>
 Knock on Brain<br>
-<a href="https://phptest.avianglobes.com">http://www.knockonbrain.com</a><br>
+<a href="https://35.154.101.124">http://www.knockonbrain.com</a><br>
 
 
     </p>

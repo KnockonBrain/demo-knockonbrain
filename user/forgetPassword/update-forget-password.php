@@ -77,6 +77,6 @@ echo "<center><div style='margin-top:100px;pointer:cursor;'><h2>Something went w
 }
 }
 }
-echo "<center><div class='container text-center'><a href='https://phptest.avianglobes.com'>
+echo "<center><div class='container text-center'><a href='https://35.154.101.124'>
     <button class='jbtn' style='margin-top:60px;'>Home</button></a></div></center>";
 ?>

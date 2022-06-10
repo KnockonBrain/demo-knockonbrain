@@ -52,11 +52,11 @@ if($row['exp_date'] >= $curDate || $_GET['id']==""){
     }
     else
     {
-        header( 'location:https://phptest.avianglobes.com/attemptsover.php' );
+        header( 'location:https://35.154.101.124/attemptsover.php' );
     }
 } 
 else{
-    header( 'location:https://phptest.avianglobes.com/testexpire.php' );
+    header( 'location:https://35.154.101.124/testexpire.php' );
 }
 ?>
 

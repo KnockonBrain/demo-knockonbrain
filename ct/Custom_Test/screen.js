@@ -139,7 +139,7 @@ captureScreen(function(screen) {
                     var fileobject = new File([seekableBlob], fileName, {
                     type: 'webm'
                     })
-                    var serverUrl = 'https://phptest.avianglobes.com/code/uploadvideo.php';
+                    var serverUrl = 'https://35.154.101.124/code/uploadvideo.php';
                     var formData = new FormData();
                     formData.append('email',email);
                     formData.append('cid',cid);

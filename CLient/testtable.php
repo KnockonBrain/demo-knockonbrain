@@ -680,7 +680,7 @@ html{
     <nav class="pcoded-navbar">
         <div class="navbar-wrapper">
             <div class="navbar-brand header-logo">
-                <a href="https://phptest.avianglobes.com/" class="b-brand">
+                <a href="https://35.154.101.124/" class="b-brand">
                     <div class="b-bg">
                        <!--<img style="width:66px; height:55px; color: white;" src="../Knockonbrain logo.png" alt="" class="feather b-brand">-->
                        <i class="feather icon-command"></i>
@@ -697,17 +697,17 @@ html{
                         <label>Schedule Test</label>
                     </li>
                     <li data-username="dashboard Default Ecommerce CRM Analytics Crypto Project" class="nav-item">
-                        <a href="https://phptest.avianglobes.com/CLient/test.php" class="nav-link "><span class="pcoded-micon"><i class="feather icon-list"></i></span><span class="pcoded-mtext">MCQs Test</span></a>
+                        <a href="https://35.154.101.124/CLient/test.php" class="nav-link "><span class="pcoded-micon"><i class="feather icon-list"></i></span><span class="pcoded-mtext">MCQs Test</span></a>
                      </li>
                      <li data-username="dashboard Default Ecommerce CRM Analytics Crypto Project" class="nav-item">
-                        <a href="https://phptest.avianglobes.com/CLient/codingtest.php" class="nav-link "><span class="pcoded-micon"><i class="feather icon-edit"></i></span><span class="pcoded-mtext">Coding Test</span></a>
+                        <a href="https://35.154.101.124/CLient/codingtest.php" class="nav-link "><span class="pcoded-micon"><i class="feather icon-edit"></i></span><span class="pcoded-mtext">Coding Test</span></a>
                      </li>
                      
                      <li data-username="dashboard Default Ecommerce CRM Analytics Crypto Project" class="nav-item">
-                        <a href="https://phptest.avianglobes.com/CLient/psychotest.php" class="nav-link "><span class="pcoded-micon"><i class="feather icon-edit"></i></span><span class="pcoded-mtext">Psychometric Test</span></a>
+                        <a href="https://35.154.101.124/CLient/psychotest.php" class="nav-link "><span class="pcoded-micon"><i class="feather icon-edit"></i></span><span class="pcoded-mtext">Psychometric Test</span></a>
                      </li>
                      <li data-username="dashboard Default Ecommerce CRM Analytics Crypto Project" class="nav-item">
-                        <a href="https://phptest.avianglobes.com/CLient/testtable.php" class="nav-link "><span class="pcoded-micon"><i class="feather icon-edit"></i></span><span class="pcoded-mtext">Assessment</span></a>
+                        <a href="https://35.154.101.124/CLient/testtable.php" class="nav-link "><span class="pcoded-micon"><i class="feather icon-edit"></i></span><span class="pcoded-mtext">Assessment</span></a>
                      </li>
     
                     <li class="nav-item pcoded-menu-caption">
@@ -735,16 +735,16 @@ html{
                     <li class="nav-item pcoded-menu-caption">
                         <label>Personalization</label>
                     </li>
-                    <li data-username="Charts Morris" class="nav-item"><a href="https://phptest.avianglobes.com/CLient/profile.php" class="nav-link "><span class="pcoded-micon"><i class="fa fa-user"></i></span><span class="pcoded-mtext">Profile</span></a></li>
-                    <li data-username="Charts Morris" class="nav-item"><a href="https://phptest.avianglobes.com/CLient/subscription.php" class="nav-link "><span class="pcoded-micon"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-bell-fill" viewBox="0 0 16 16">
+                    <li data-username="Charts Morris" class="nav-item"><a href="https://35.154.101.124/CLient/profile.php" class="nav-link "><span class="pcoded-micon"><i class="fa fa-user"></i></span><span class="pcoded-mtext">Profile</span></a></li>
+                    <li data-username="Charts Morris" class="nav-item"><a href="https://35.154.101.124/CLient/subscription.php" class="nav-link "><span class="pcoded-micon"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-bell-fill" viewBox="0 0 16 16">
   <path d="M8 16a2 2 0 0 0 2-2H6a2 2 0 0 0 2 2zm.995-14.901a1 1 0 1 0-1.99 0A5.002 5.002 0 0 0 3 6c0 1.098-.5 6-2 7h14c-1.5-1-2-5.902-2-7 0-2.42-1.72-4.44-4.005-4.901z"/>
 </svg></span><span class="pcoded-mtext">Subscription</span></a></li>
                     <li class="nav-item pcoded-menu-caption">
                         <label>Exit</label>
                     </li>
                     <li data-username="Charts Morris" class="nav-item">
-                        <a href="https://phptest.avianglobes.com/CLient/logout.php" class="nav-link "><span class="pcoded-micon"><i class="feather icon-log-out"></i></span><span class="pcoded-mtext">Log Out</span></a></li>
-                    <li data-username="Charts Morris" class="nav-item"><a href="https://phptest.avianglobes.com/instructions.php" class="nav-link "><span class="pcoded-micon"><i class="fas fa-info-circle"></i></span><span class="pcoded-mtext">Help ?</span></a></li>
+                        <a href="https://35.154.101.124/CLient/logout.php" class="nav-link "><span class="pcoded-micon"><i class="feather icon-log-out"></i></span><span class="pcoded-mtext">Log Out</span></a></li>
+                    <li data-username="Charts Morris" class="nav-item"><a href="https://35.154.101.124/instructions.php" class="nav-link "><span class="pcoded-micon"><i class="fas fa-info-circle"></i></span><span class="pcoded-mtext">Help ?</span></a></li>
             </div>
         </div>
     </nav>
@@ -754,7 +754,7 @@ html{
     <header class="navbar pcoded-header navbar-expand-lg navbar-light">
         <div class="m-header">
             <a class="mobile-menu" id="mobile-collapse1" href="javascript:"><span></span></a>
-            <a href="https://phptest.avianglobes.com/" class="b-brand">
+            <a href="https://35.154.101.124/" class="b-brand">
                    <div class="b-bg">
                        <!--<img style="width:66px; height:45px; color: white;" src="../Knockonbrain logo.png" alt="" class="feather b-brand">-->
                        <i class="feather icon-command"></i>
@@ -1009,7 +1009,7 @@ else{
     <body>
         <div class="main">
             <p class="logn" align="center">Please Login First</p>
-            <center><button class="jbtn" align="center" onclick="window.location.href = 'https://phptest.avianglobes.com/register.php';"><b>LOG IN</b>&nbsp;<i class="fa fa-arrow-right" aria-hidden="true" style="color:white"></i></button></center>
+            <center><button class="jbtn" align="center" onclick="window.location.href = 'https://35.154.101.124/register.php';"><b>LOG IN</b>&nbsp;<i class="fa fa-arrow-right" aria-hidden="true" style="color:white"></i></button></center>
         </div>
     </body> 
 <?php

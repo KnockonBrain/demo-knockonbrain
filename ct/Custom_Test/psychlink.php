@@ -10,11 +10,11 @@ $t=$_SESSION['psychotest'];
 $f=$_GET['f'];
 if($_SESSION['psychotest'] == "MBTI")
     {
-        $type = "https://phptest.avianglobes.com/Personality_Assessment/start.php";
+        $type = "https://35.154.101.124/Personality_Assessment/start.php";
     }
     else
     {
-        $type="https://phptest.avianglobes.com/start/";
+        $type="https://35.154.101.124/start/";
     }
 $getname='name'.$t;
 $attempt=mysqli_query($con,"SELECT count(*) FROM `mbti_result` WHERE ID101=$psychoid and email='$m1'");
@@ -22,7 +22,7 @@ $data_attempt = mysqli_fetch_array($attempt);
 if ( $_SESSION[$getname] == 0 ){   //If already attempted question
         echo '<script type="text/javascript">';
         echo 'alert("Already attempted!");';
-        echo 'window.location.href = "https://phptest.avianglobes.com/ct/Custom_Test/test.php";';
+        echo 'window.location.href = "https://35.154.101.124/ct/Custom_Test/test.php";';
         echo '</script>';
     } 
     else {   //if not attempted
@@ -33,7 +33,7 @@ if ( $_SESSION[$getname] == 0 ){   //If already attempted question
        else{
          echo '<script type="text/javascript">';
         echo 'alert("Overall attempts over");';
-        echo 'window.location.href = "https://phptest.avianglobes.com/ct/Custom_Test/test.php";';
+        echo 'window.location.href = "https://35.154.101.124/ct/Custom_Test/test.php";';
         echo '</script>';
         }
     }

@@ -96,7 +96,7 @@ drift.load('ntw3vk4zr7ni');
   <header id="header" class="header fixed-top">
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
 
-      <a href="https://phptest.avianglobes.com/joker_index.php" class="logo d-flex align-items-center">
+      <a href="https://35.154.101.124/joker_index.php" class="logo d-flex align-items-center">
           <img style="width:66px; height:55px; color: white;" src="Knockonbrain logo.png" alt="">
         <!--<img src="assets/img/logo.png" alt="">-->
         <span style="font-family: 'Pacifico', cursive;">Knock On Brain</span>

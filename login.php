@@ -1247,7 +1247,7 @@ s0.parentNode.insertBefore(s1,s0);
             	<input type="password" name="password" placeholder="Password" autocomplete="new-password"  required="">
             </div>
             
-            <a href="https://phptest.avianglobes.com/CLient/forgetPassword/jforget.php" style="color:#67B2E0;">Forgot password?</a>
+            <a href="https://35.154.101.124/CLient/forgetPassword/jforget.php" style="color:#67B2E0;">Forgot password?</a>
             
             <input type="submit" class="btn"  name="login_user" value="Login" />
             <h1 class="title" style="font-weight:100;font-size: 0.9em;"> Don't have an account?</h1>

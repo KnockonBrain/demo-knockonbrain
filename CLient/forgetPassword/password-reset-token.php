@@ -102,7 +102,7 @@ if(isset($_POST['password-reset-token']) && $_POST['email'])
 
     $update = mysqli_query($conn,"UPDATE users set  user_password='" . $password . "', reset_link_token='" . $token . "' ,exp_date='" . $expDate . "' WHERE user_email='" . $emailId . "'");
 
-    $link = "<a href='https://phptest.avianglobes.com/CLient/forgetPassword/reset-password.php?key=".$emailId."&token=".$token."'>Reset password</a>";
+    $link = "<a href='https://35.154.101.124/CLient/forgetPassword/reset-password.php?key=".$emailId."&token=".$token."'>Reset password</a>";
 
     require '../phpmailer/PHPMailerAutoload.php';
     require '../phpmailer/class.smtp.php';
@@ -141,6 +141,6 @@ if(isset($_POST['password-reset-token']) && $_POST['email'])
      echo "<center><div style='margin-top:100px;pointer:cursor;'><h2>Invalid Email Address. Go back</h2></div></center>";
   }
 }
-echo "<center><div class='container text-center'><a href='https://phptest.avianglobes.com'>
+echo "<center><div class='container text-center'><a href='https://35.154.101.124'>
     <button class='jbtn' style='margin-top:60px;'>Home</button></a></div></center>";	
 ?>

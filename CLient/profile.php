@@ -446,7 +446,7 @@ $(function(){
         ?>
         <!--<nav>-->
         <!--    <ul class="cul">-->
-        <!--        <li><a href="https://phptest.avianglobes.com/CLient/test.php"><i class="fa fa-home fa-2x" title="Home Page"></i></a></li>-->
+        <!--        <li><a href="https://35.154.101.124/CLient/test.php"><i class="fa fa-home fa-2x" title="Home Page"></i></a></li>-->
                 <!--<li><a href="../test.php"><button class="jbtnn">Home</button></a></li>-->
         <!--    </ul>-->
         <!-- </nav>-->
@@ -619,7 +619,7 @@ else{?>
     <body>
         <div class="main">
             <p class="logn" align="center">Please Login First</p>
-            <center><button class="jbtn" align="center" onclick="window.location.href = 'https://phptest.avianglobes.com/index.php';"><b>LOG IN</b>&nbsp;<i class="fa fa-arrow-right" aria-hidden="true" style="color:white"></i></button></center>
+            <center><button class="jbtn" align="center" onclick="window.location.href = 'https://35.154.101.124/index.php';"><b>LOG IN</b>&nbsp;<i class="fa fa-arrow-right" aria-hidden="true" style="color:white"></i></button></center>
         </div>
     </body> 
 <?php

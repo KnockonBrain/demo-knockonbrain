@@ -16,7 +16,7 @@
     $lg2=$_SESSION['lg2'];
     $sum=$myPhpVar/6;
     $sum=$sum*100;
-    //$sql = "INSERT INTO result (cid,email,res_per,start_time,end_time,video_link1,video_link2,lg1,lg2,lg) VALUES ('$cid','$email',$sum,'$start_time','$end_time','https://phptest.avianglobes.com/php/test/upload/$fn1','https://phptest.avianglobes.com/php/test/upload/$fn2','$lg1','$lg2','$main_lang')";
+    //$sql = "INSERT INTO result (cid,email,res_per,start_time,end_time,video_link1,video_link2,lg1,lg2,lg) VALUES ('$cid','$email',$sum,'$start_time','$end_time','https://35.154.101.124/php/test/upload/$fn1','https://35.154.101.124/php/test/upload/$fn2','$lg1','$lg2','$main_lang')";
     $sql = "INSERT INTO code_result (cid,email,res_per,start_time,end_time,video_link1,video_link2,lg1,lg2,lg) VALUES ('$cid','$email',$sum,'$start_time','$end_time','https://test.avianglobes.com/Online%20Complier/upload/$fn1','https://test.avianglobes.com/Online%20Complier/upload/$fn2','$lg1','$lg2','$main_lang')";
     if ($con->query($sql) === TRUE) {
   //      echo "New record created successfully";

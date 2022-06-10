@@ -32,7 +32,7 @@ global $current_user;
     </script>
 <style>
    body{
-       /*background-image:url("https://phptest.avianglobes.com/wp-content/uploads/2021/03/white-technology-background_23-2148390335.jpg");*/
+       /*background-image:url("https://35.154.101.124/wp-content/uploads/2021/03/white-technology-background_23-2148390335.jpg");*/
        background-image:url("../images/bg.jpg");
        background-repeat:no-repeat;
        background-size:cover;
@@ -257,7 +257,7 @@ foreach($res as $m)
 			//Change the subject.
 // 			$mail->Subject = 'Test Invitation-KnockOnBrain';
 			$data = array('tid'=>$tid,'mcqid'=>$mcqid,'lang'=>$lang,'codeid'=>$codeid,'type'=>$type,'psychoid'=>$psychoid,'cid'=>$cid,'exp'=>$exp,'m1'=>$m['email']);
-			$build="https://phptest.avianglobes.com/ct/Custom_Test/start.php?".http_build_query($data);
+			$build="https://35.154.101.124/ct/Custom_Test/start.php?".http_build_query($data);
 			if($company!=''){
                     $mail->Body='<div class="main-div" style="padding: 1rem; background-color: #ececec;">
 		        <div class="sub-main" style="background-color: white; line-height: 22px; padding:25px 25px 15px 30px; font-size:15px; font-family: Helvetica;">
@@ -333,7 +333,7 @@ foreach($res as $m)
 
                 If the above button does not work for you, attempt the test through the given link: '.$build.'
                 <br><br>
-                If you stuck anywhere while starting the test please check <a href="https://phptest.avianglobes.com/candidate_instructions.php">Instructions</a>.
+                If you stuck anywhere while starting the test please check <a href="https://35.154.101.124/candidate_instructions.php">Instructions</a>.
                 
                 <br><br>
                 
@@ -383,7 +383,7 @@ foreach($res as $m)
 		
 	echo "<center><p class='text-center'style='font-family:sans-serif;margin-top:40px;'><b><i>i:</i></b>&nbsp;Applicant will receive test link on above email.</p></center>";
 	echo "<center><p class='text-center'style='font-family:sans-serif;margin-top:-40px; font-size:25px;color:red;'><br><b>Please inform applicant to check his spam folder too for invitation assessment.</b></p></center>";			
-    echo "<div class='container text-center'><a href='https://phptest.avianglobes.com/CLient/testtable.php'".$cname."/'><button class='feedback2' style='margin-top:0.6rem'>Schedule More Test</button></a></div>";	
+    echo "<div class='container text-center'><a href='https://35.154.101.124/CLient/testtable.php'".$cname."/'><button class='feedback2' style='margin-top:0.6rem'>Schedule More Test</button></a></div>";	
 	
 ?>
 <!--<p><center>Click on the button to copy the text from the text field. Try to paste the text (e.g. ctrl+v) afterwards in a different window, to see the effect.</center></p>-->

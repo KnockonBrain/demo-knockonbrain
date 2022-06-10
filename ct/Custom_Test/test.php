@@ -39,7 +39,7 @@ $m1=$_SESSION['email'];
         $psychoid=$_SESSION['psychoid'];
         if($_SESSION['psychotest'] == "MBTI")
         {
-            $type = "https://phptest.avianglobes.com/Personality_Assessment/start.php?";
+            $type = "https://35.154.101.124/Personality_Assessment/start.php?";
         }
         else
         {
@@ -442,7 +442,7 @@ $m1=$_SESSION['email'];
     </script>
             <!--<label class="head1">MCQ Test</label>-->
             <!--<p class="content1" >Click on "attempt button" to give the Test</p>-->
-            <!--<a class = "btn" href = "https://phptest.avianglobes.com/php/test/index.php?cid=<?php echo $cid?>&tid=<?php echo $t ?>&m1=<?php echo $m1 ?>">Attempt</a>-->
+            <!--<a class = "btn" href = "https://35.154.101.124/php/test/index.php?cid=<?php echo $cid?>&tid=<?php echo $t ?>&m1=<?php echo $m1 ?>">Attempt</a>-->
          
       
         <div class="panel">
@@ -520,7 +520,7 @@ $m1=$_SESSION['email'];
  }
   
   else{
-    header( 'location:https://phptest.avianglobes.com/CLient/testexpire.php');
+    header( 'location:https://35.154.101.124/CLient/testexpire.php');
  }
   
 ob_end_flush();

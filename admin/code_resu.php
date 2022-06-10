@@ -155,7 +155,7 @@ $(function(){
                                                      
                                                      ?>
                                                     <td><?php echo $scor; ?></td>
-                                                    <td><a href="<?php if($row['video_link1']=="https://test.avianglobes.com/Online%20Complier/upload/") {echo "https://phptest.avianglobes.com/CLient/failure.php";} else {echo $row['video_link1']; }?>">Video link1</a><br><a href="<?php if($row['video_link2']=="https://test.avianglobes.com/Online%20Complier/upload/"){echo "https://phptest.avianglobes.com/CLient/failure.php";} else {echo $row['video_link2'];} ?>">Video link2</a></td>
+                                                    <td><a href="<?php if($row['video_link1']=="https://test.avianglobes.com/Online%20Complier/upload/") {echo "https://35.154.101.124/CLient/failure.php";} else {echo $row['video_link1']; }?>">Video link1</a><br><a href="<?php if($row['video_link2']=="https://test.avianglobes.com/Online%20Complier/upload/"){echo "https://35.154.101.124/CLient/failure.php";} else {echo $row['video_link2'];} ?>">Video link2</a></td>
                                                     <!--<td><a href="<?php echo $row['video_link1']; ?>">Video Link</a></td> -->
                                                     
                                                    
@@ -189,7 +189,7 @@ $(function(){
                                                  
                                                  ?>
                                                 <td><?php echo $scor; ?></td>
-                                                <td><a href="<?php if($row['video_link1']=="https://test.avianglobes.com/Online%20Complier/upload/") {echo "https://phptest.avianglobes.com/CLient/failure.php";} else {echo $row['video_link1']; }?>">Video link1</a><br><a href="<?php if($row['video_link2']=="https://test.avianglobes.com/Online%20Complier/upload/"){echo "https://phptest.avianglobes.com/CLient/failure.php";} else {echo $row['video_link2'];} ?>">Video link2</a></td>
+                                                <td><a href="<?php if($row['video_link1']=="https://test.avianglobes.com/Online%20Complier/upload/") {echo "https://35.154.101.124/CLient/failure.php";} else {echo $row['video_link1']; }?>">Video link1</a><br><a href="<?php if($row['video_link2']=="https://test.avianglobes.com/Online%20Complier/upload/"){echo "https://35.154.101.124/CLient/failure.php";} else {echo $row['video_link2'];} ?>">Video link2</a></td>
                                                 <!--<td><a href="<?php echo $row['video_link1']; ?>">Video Link</a></td> -->
                                                 
                                                

@@ -606,7 +606,7 @@ echo "<br><b>Description:</b> <i>";
    echo "</i><br>";
    
 ?>
-<b>To view the complete Answer Sheet<a href="https://phptest.avianglobes.com/CLient/AnswerSheet.php?rid=
+<b>To view the complete Answer Sheet<a href="https://35.154.101.124/CLient/AnswerSheet.php?rid=
 <?php
 echo $data_attempt1['result_id'];
 ?>
@@ -901,7 +901,7 @@ echo "<b>Description:</b> <i>";
  
  echo "</i><br>";
 ?>
-<b>To view the complete Answer Sheet<a href="https://phptest.avianglobes.com/CLient/AnswerSheet.php?rid=
+<b>To view the complete Answer Sheet<a href="https://35.154.101.124/CLient/AnswerSheet.php?rid=
 <?php
 echo $data_attempt1['result_id'];
 ?>

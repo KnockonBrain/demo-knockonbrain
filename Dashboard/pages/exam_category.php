@@ -321,7 +321,7 @@ $stmt= mysqli_query($link,"SELECT mname FROM main_category ORDER BY mname");
                 $query2="insert into main_category values(NULL,'$_POST[examcategory]')";
                 mysqli_query($link,$query2) or die(mysqli_error($link));
                 // $temp="select mid from main_category where mname='$_POST[examcategory]";
-                $query3="insert into exam_category values(NULL,'$_POST[examname]','$_POST[examtime]','$_POST[noq]','https://phptest.avianglobes.com/php/test/index.php',NULL,NULL,(select mid from main_category where mname='$_POST[examcategory]'),NULL)";
+                $query3="insert into exam_category values(NULL,'$_POST[examname]','$_POST[examtime]','$_POST[noq]','https://35.154.101.124/php/test/index.php',NULL,NULL,(select mid from main_category where mname='$_POST[examcategory]'),NULL)";
                 // $query3="INSERT INTO `exam_category` (`category`, `exam_time_in_minutes`, `noq`, `link`, `username`, `cid`, `main_category`, `tab_id`) VALUES (NULL, 'others', '10', '20', '', 'palak', '56', '3', '1')";
     
                 $result = mysqli_query($link,$query3);
@@ -363,7 +363,7 @@ $stmt= mysqli_query($link,"SELECT mname FROM main_category ORDER BY mname");
             }
             else{
                 echo '<script>document.write("bada bhai");</script>';
-                $query="insert into exam_category values(NULL,'$_POST[examname]','$_POST[examtime]','$_POST[noq]','https://phptest.avianglobes.com/php/test/index.php',NULL,NULL,(select mid from main_category where mname='$_POST[main_category]'),NULL)";
+                $query="insert into exam_category values(NULL,'$_POST[examname]','$_POST[examtime]','$_POST[noq]','https://35.154.101.124/php/test/index.php',NULL,NULL,(select mid from main_category where mname='$_POST[main_category]'),NULL)";
                 mysqli_query($link,$query) or die(mysqli_error($link));
             
 ?>

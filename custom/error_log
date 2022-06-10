@@ -280,33 +280,33 @@
 [02-Jun-2022 08:55:19 UTC] PHP Warning:  Division by zero in /home/giitsolu/public_html/custom/newadd.php on line 570
 [02-Jun-2022 08:55:19 UTC] PHP Warning:  Division by zero in /home/giitsolu/public_html/custom/newadd.php on line 571
 [02-Jun-2022 08:55:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/giitsolu/public_html/custom/newadd.php on line 6
-[08-Jun-2022 05:29:46 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/euryed630gsg/public_html/phptest.avianglobes.com/custom/createtest.php on line 9
-[08-Jun-2022 05:29:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/euryed630gsg/public_html/phptest.avianglobes.com/custom/createtest.php:18
+[08-Jun-2022 05:29:46 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/euryed630gsg/public_html/35.154.101.124/custom/createtest.php on line 9
+[08-Jun-2022 05:29:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/euryed630gsg/public_html/35.154.101.124/custom/createtest.php:18
 Stack trace:
-#0 /home/euryed630gsg/public_html/phptest.avianglobes.com/custom/createtest.php(18): PDOStatement->execute()
+#0 /home/euryed630gsg/public_html/35.154.101.124/custom/createtest.php(18): PDOStatement->execute()
 #1 {main}
-  thrown in /home/euryed630gsg/public_html/phptest.avianglobes.com/custom/createtest.php on line 18
-[08-Jun-2022 05:30:31 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/euryed630gsg/public_html/phptest.avianglobes.com/custom/createtest.php on line 9
-[08-Jun-2022 05:30:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/euryed630gsg/public_html/phptest.avianglobes.com/custom/createtest.php:18
+  thrown in /home/euryed630gsg/public_html/35.154.101.124/custom/createtest.php on line 18
+[08-Jun-2022 05:30:31 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/euryed630gsg/public_html/35.154.101.124/custom/createtest.php on line 9
+[08-Jun-2022 05:30:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/euryed630gsg/public_html/35.154.101.124/custom/createtest.php:18
 Stack trace:
-#0 /home/euryed630gsg/public_html/phptest.avianglobes.com/custom/createtest.php(18): PDOStatement->execute()
+#0 /home/euryed630gsg/public_html/35.154.101.124/custom/createtest.php(18): PDOStatement->execute()
 #1 {main}
-  thrown in /home/euryed630gsg/public_html/phptest.avianglobes.com/custom/createtest.php on line 18
-[08-Jun-2022 06:06:34 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/euryed630gsg/public_html/phptest.avianglobes.com/custom/createtest.php on line 9
-[08-Jun-2022 06:06:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/euryed630gsg/public_html/phptest.avianglobes.com/custom/createtest.php:18
+  thrown in /home/euryed630gsg/public_html/35.154.101.124/custom/createtest.php on line 18
+[08-Jun-2022 06:06:34 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/euryed630gsg/public_html/35.154.101.124/custom/createtest.php on line 9
+[08-Jun-2022 06:06:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/euryed630gsg/public_html/35.154.101.124/custom/createtest.php:18
 Stack trace:
-#0 /home/euryed630gsg/public_html/phptest.avianglobes.com/custom/createtest.php(18): PDOStatement->execute()
+#0 /home/euryed630gsg/public_html/35.154.101.124/custom/createtest.php(18): PDOStatement->execute()
 #1 {main}
-  thrown in /home/euryed630gsg/public_html/phptest.avianglobes.com/custom/createtest.php on line 18
-[08-Jun-2022 06:06:51 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/euryed630gsg/public_html/phptest.avianglobes.com/custom/createtest.php on line 9
-[08-Jun-2022 06:06:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/euryed630gsg/public_html/phptest.avianglobes.com/custom/createtest.php:18
+  thrown in /home/euryed630gsg/public_html/35.154.101.124/custom/createtest.php on line 18
+[08-Jun-2022 06:06:51 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/euryed630gsg/public_html/35.154.101.124/custom/createtest.php on line 9
+[08-Jun-2022 06:06:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/euryed630gsg/public_html/35.154.101.124/custom/createtest.php:18
 Stack trace:
-#0 /home/euryed630gsg/public_html/phptest.avianglobes.com/custom/createtest.php(18): PDOStatement->execute()
+#0 /home/euryed630gsg/public_html/35.154.101.124/custom/createtest.php(18): PDOStatement->execute()
 #1 {main}
-  thrown in /home/euryed630gsg/public_html/phptest.avianglobes.com/custom/createtest.php on line 18
-[08-Jun-2022 06:07:18 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/euryed630gsg/public_html/phptest.avianglobes.com/custom/createtest.php on line 9
-[08-Jun-2022 06:07:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/euryed630gsg/public_html/phptest.avianglobes.com/custom/createtest.php:18
+  thrown in /home/euryed630gsg/public_html/35.154.101.124/custom/createtest.php on line 18
+[08-Jun-2022 06:07:18 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/euryed630gsg/public_html/35.154.101.124/custom/createtest.php on line 9
+[08-Jun-2022 06:07:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/euryed630gsg/public_html/35.154.101.124/custom/createtest.php:18
 Stack trace:
-#0 /home/euryed630gsg/public_html/phptest.avianglobes.com/custom/createtest.php(18): PDOStatement->execute()
+#0 /home/euryed630gsg/public_html/35.154.101.124/custom/createtest.php(18): PDOStatement->execute()
 #1 {main}
-  thrown in /home/euryed630gsg/public_html/phptest.avianglobes.com/custom/createtest.php on line 18
+  thrown in /home/euryed630gsg/public_html/35.154.101.124/custom/createtest.php on line 18

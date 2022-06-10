@@ -186,7 +186,7 @@ $result = $stmt->FetchAll();
                 
                 $query2="insert into main_category values(NULL,'$_POST[examcategory]')";
                 mysqli_query($link,$query2) or die(mysqli_error($link));
-                $query3="insert into exam_category values(NULL,'$_POST[examname]','$_POST[examtime]','$_POST[noq]','https://phptest.avianglobes.com/php/test/index.php',NULL,NULL,(select mid from main_category where mname='$_POST[examcategory]'))";
+                $query3="insert into exam_category values(NULL,'$_POST[examname]','$_POST[examtime]','$_POST[noq]','https://35.154.101.124/php/test/index.php',NULL,NULL,(select mid from main_category where mname='$_POST[examcategory]'))";
                 mysqli_query($link,$query3) or die(mysqli_error($link));
 ?>
                 <script type="text/javascript">
@@ -217,7 +217,7 @@ $result = $stmt->FetchAll();
                     </script>';
             }
             else{
-                $query="insert into exam_category values(NULL,'$_POST[examname]','$_POST[examtime]','$_POST[noq]','https://phptest.avianglobes.com/php/test/index.php',NULL,NULL,(select mid from main_category where mname='$_POST[main_category]'))";
+                $query="insert into exam_category values(NULL,'$_POST[examname]','$_POST[examtime]','$_POST[noq]','https://35.154.101.124/php/test/index.php',NULL,NULL,(select mid from main_category where mname='$_POST[main_category]'))";
                 mysqli_query($link,$query) or die(mysqli_error($link));
             
 ?>

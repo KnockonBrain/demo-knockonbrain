@@ -25,7 +25,7 @@ $data = array('m1'=>'','tid'=>$tid,'cid'=>$cid,'exp'=>$exp,'lang'=>$lang,'type'=
 // header('location:https://test.avianglobes.com/ct/Custom_Test/start.php?http_build_query($data)');
 
 // echo "<a href='https://test.avianglobes.com/ct/Custom_Test/start.php?" . http_build_query($data) . "'>next page</a>";
-$testlink="https://phptest.avianglobes.com/ct/Custom_Test/start.php?".http_build_query($data);
+$testlink="https://35.154.101.124/ct/Custom_Test/start.php?".http_build_query($data);
 //     foreach($_POST['checkboxName'] as $value)
 //     {
 //       echo $value.'<br>';

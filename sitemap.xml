@@ -5,47 +5,47 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
-  <loc>https://phptest.avianglobes.com/</loc>
+  <loc>https://35.154.101.124/</loc>
   <lastmod>2021-12-28T09:08:08+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://phptest.avianglobes.com/index.php</loc>
+  <loc>https://35.154.101.124/index.php</loc>
   <lastmod>2021-12-28T09:08:08+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://phptest.avianglobes.com/disclaimer.php</loc>
+  <loc>https://35.154.101.124/disclaimer.php</loc>
   <lastmod>2021-12-28T09:08:08+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://phptest.avianglobes.com/instructions.php</loc>
+  <loc>https://35.154.101.124/instructions.php</loc>
   <lastmod>2021-12-28T09:08:08+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://phptest.avianglobes.com/candidate_instructions.php</loc>
+  <loc>https://35.154.101.124/candidate_instructions.php</loc>
   <lastmod>2021-12-28T09:08:08+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://phptest.avianglobes.com/schedule.php</loc>
+  <loc>https://35.154.101.124/schedule.php</loc>
   <lastmod>2021-12-28T09:08:08+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://phptest.avianglobes.com/register.php</loc>
+  <loc>https://35.154.101.124/register.php</loc>
   <lastmod>2021-12-28T09:08:08+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://phptest.avianglobes.com/instruct.php</loc>
+  <loc>https://35.154.101.124/instruct.php</loc>
   <lastmod>2021-12-28T09:08:08+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://phptest.avianglobes.com/CLient/forgetPassword/jforget.php</loc>
+  <loc>https://35.154.101.124/CLient/forgetPassword/jforget.php</loc>
   <lastmod>2021-12-28T09:08:08+00:00</lastmod>
   <priority>0.64</priority>
 </url>

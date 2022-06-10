@@ -270,7 +270,7 @@ tr:hover td {
                     echo "<td> ".$var_tempemail."</td>";
                ?>
                     <td>
-                    <form action="https://phptest.avianglobes.com/CLient/CandidateA_Report.php" method="post">
+                    <form action="https://35.154.101.124/CLient/CandidateA_Report.php" method="post">
                         <input type=hidden id=currentemail name=currentemail value=<?php echo "$var_tempemail"?>>
               			<button class="butn" type="submit" style="padding: 8px; font-size: 14px;"> View Report</button></td>
               			</form>
@@ -344,7 +344,7 @@ tr:hover td {
                     echo "<td> ".$var_tempemail."</td>";
                ?>
                     <td>
-                    <form action="https://phptest.avianglobes.com/CLient/Candidate_Report.php" method="post">
+                    <form action="https://35.154.101.124/CLient/Candidate_Report.php" method="post">
                         <input type=hidden id=currentemail name=currentemail value=<?php echo "$var_tempemail"?>>
               			<button class="butn" type="submit" style="padding: 8px; font-size: 14px;"> View Report</button></td>
               			</form>

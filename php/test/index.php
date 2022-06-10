@@ -89,7 +89,7 @@ $id101=$_GET['id'];
     }
     .body1
     {
-       background-image:url("https://phptest.avianglobes.com/CLient/bg.webp");
+       background-image:url("https://35.154.101.124/CLient/bg.webp");
        background-repeat:no-repeat;
    background-size:cover;
     }
@@ -188,7 +188,7 @@ video {
         window.location.reload(false);
         }
 	if (window.location.href.indexOf("index") > -1 && jQuery(window).width() <= 480) {
-	   window.location = "https://phptest.avianglobes.com/php/test/mobilerror.php";
+	   window.location = "https://35.154.101.124/php/test/mobilerror.php";
 	   }
 	   
 	}
@@ -696,7 +696,7 @@ captureScreen(function(screen) {
                     var fileobject = new File([seekableBlob], fileName, {
                     type: 'webm'
                     })
-                    var serverUrl = 'https://phptest.avianglobes.com/php/test/upload-video.php';
+                    var serverUrl = 'https://35.154.101.124/php/test/upload-video.php';
                     var formData = new FormData();
                     formData.append('email',email);
                     formData.append('cid',cid);
@@ -725,7 +725,7 @@ captureScreen(function(screen) {
                       closeOnClickOutside: false
                     }).then(function() {
                         if(flag==1){
-                             window.location.href = "https://phptest.avianglobes.com/ct/Custom_Test/test.php";
+                             window.location.href = "https://35.154.101.124/ct/Custom_Test/test.php";
                         }
                     })
                     ).catch(
@@ -839,7 +839,7 @@ function getFileName(fileExtension) {
 <p><b>4. DO NOT press esc key, else your test will be terminated automatically.</b></p>
 <p>5. It takes 2-3 minutes to upload test video, Please wait until your test is successfully submitted.</p>
 <p><b>6. Please Ensure that you are attempting this test from Desktop.</b></p>
-<p><b>Note:</b> Please follow the instructions carefully as it might affect your result. For any further query kindly refer: <a href="https://phptest.avianglobes.com/candidate_instructions.php">Instructions</a></p>
+<p><b>Note:</b> Please follow the instructions carefully as it might affect your result. For any further query kindly refer: <a href="https://35.154.101.124/candidate_instructions.php">Instructions</a></p>
 </div>
 
 
@@ -989,7 +989,7 @@ function getFileName(fileExtension) {
 
 <div class="feedback" style="margin-top:5%; border-radius: 2%;">
     <span class="contact100-form-symbol">
-    <img src="https://phptest.avianglobes.com/images/feedback.png" alt="SYMBOL-Feedback">
+    <img src="https://35.154.101.124/images/feedback.png" alt="SYMBOL-Feedback">
     </span>
    <div style="font-family:comfortaa;"><center><b><h5 style="font-weight: bold;">Thank You! For your valuable time. Your Recruiter will contact you soon.</h5></b></center></div>
 <br>

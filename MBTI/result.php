@@ -455,7 +455,7 @@
 	Thank You for Your Time.</h1>
 	<?php
     if($_SESSION['flag']==1){
-        header( 'location:https://phptest.avianglobes.com/ct/Custom_Test/test.php' );
+        header( 'location:https://35.154.101.124/ct/Custom_Test/test.php' );
     }
   ?>
 </body>

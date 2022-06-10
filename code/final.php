@@ -28,8 +28,8 @@
     $testcase1=$testcase1*100;
     $testcase2=$test2/10;
     $testcase2=$testcase2*100;
-    //$sql = "INSERT INTO result (cid,email,res_per,start_time,end_time,video_link1,video_link2,lg1,lg2,lg) VALUES ('$cid','$email',$sum,'$start_time','$end_time','https://phptest.avianglobes.com/php/test/upload/$fn1','https://phptest.avianglobes.com/php/test/upload/$fn2','$lg1','$lg2','$main_lang')";
-     $sql = "INSERT INTO code_result (cid,can_name,email,res_per,start_time,end_time,video_link1,video_link2,lg1,lg2,lg,id,qid1,qid2,code1,code2,test1,test2) VALUES ('$cid','$can_name1','$email',$sum,'$start_time','$end_time','https://phptest.avianglobes.com/code/upload/$fn1','https://phptest.avianglobes.com/code/upload/$fn2','$lg1','$lg2','$main_lang','$id','$qid1','$qid2','$source1','$source2','$testcase1','$testcase2')";
+    //$sql = "INSERT INTO result (cid,email,res_per,start_time,end_time,video_link1,video_link2,lg1,lg2,lg) VALUES ('$cid','$email',$sum,'$start_time','$end_time','https://35.154.101.124/php/test/upload/$fn1','https://35.154.101.124/php/test/upload/$fn2','$lg1','$lg2','$main_lang')";
+     $sql = "INSERT INTO code_result (cid,can_name,email,res_per,start_time,end_time,video_link1,video_link2,lg1,lg2,lg,id,qid1,qid2,code1,code2,test1,test2) VALUES ('$cid','$can_name1','$email',$sum,'$start_time','$end_time','https://35.154.101.124/code/upload/$fn1','https://35.154.101.124/code/upload/$fn2','$lg1','$lg2','$main_lang','$id','$qid1','$qid2','$source1','$source2','$testcase1','$testcase2')";
   
     if ($con->query($sql) === TRUE) {
   //   if ($con->query($sql) === TRUE) {
@@ -85,7 +85,7 @@ $con->close();
            <style>
 
 body{
-    background-image: url(https://phptest.avianglobes.com/CLient/bg.webp);
+    background-image: url(https://35.154.101.124/CLient/bg.webp);
     background-repeat: round;
 }
 
@@ -300,7 +300,7 @@ background: linear-gradient(-135deg, #1de9b6 0%, #1dc4e9 100%);
 
 <div class="feedback" style="margin-top:5%; border-radius:2%;">
     <span class="contact100-form-symbol">
-    <img src="https://phptest.avianglobes.com/images/feedback.png" alt="SYMBOL-Feedback">
+    <img src="https://35.154.101.124/images/feedback.png" alt="SYMBOL-Feedback">
     </span>
    <div style="font-family:comfortaa;"><center><b><h5 style="font-weight: bold;">Thank You! For your valuable time. Your Recruiter will contact you soon.</h5></b></center></div>
 <br>

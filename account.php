@@ -1811,9 +1811,9 @@ Knock on Brain.</p>
           <div class="col-lg-3 col-md-6 footer-links">
             <h4>Our Services</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="https://phptest.avianglobes.com/">Tech Scope</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="https://phptest.avianglobes.com/">Online Assessment</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="https://phptest.avianglobes.com/">Custom Solution For Corporates</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://35.154.101.124/">Tech Scope</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://35.154.101.124/">Online Assessment</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://35.154.101.124/">Custom Solution For Corporates</a></li>
             </ul>
           </div>
 

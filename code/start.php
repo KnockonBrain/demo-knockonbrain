@@ -58,7 +58,7 @@ input[type=text], select {
 }
      .bdy
     {
-        background-image:url("https://phptest.avianglobes.com/CLient/bg.webp");
+        background-image:url("https://35.154.101.124/CLient/bg.webp");
         background-repeat:no-repeat;
         background-size:cover;
     }
