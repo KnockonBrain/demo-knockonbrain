@@ -1,0 +1,95 @@
+
+[30-May-2022 11:33:25 Asia/Kolkata] PHP Notice:  Undefined index: can_namecode in /home/giitsolu/public_html/code/assign.php on line 29
+[30-May-2022 11:34:01 Asia/Kolkata] PHP Notice:  Undefined index: can_namecode in /home/giitsolu/public_html/code/assign.php on line 29
+[30-May-2022 11:34:25 Asia/Kolkata] PHP Notice:  Undefined index: can_namecode in /home/giitsolu/public_html/code/assign.php on line 29
+[30-May-2022 11:34:54 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/giitsolu/public_html/code/assign.php on line 7
+[30-May-2022 11:34:54 Asia/Kolkata] PHP Notice:  Undefined index: m1 in /home/giitsolu/public_html/code/assign.php on line 8
+[30-May-2022 11:34:54 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/giitsolu/public_html/code/assign.php on line 13
+[30-May-2022 11:34:54 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/giitsolu/public_html/code/assign.php on line 14
+[30-May-2022 11:35:12 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/giitsolu/public_html/code/assign.php on line 7
+[30-May-2022 11:35:12 Asia/Kolkata] PHP Notice:  Undefined index: m1 in /home/giitsolu/public_html/code/assign.php on line 8
+[30-May-2022 11:35:12 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/giitsolu/public_html/code/assign.php on line 13
+[30-May-2022 11:35:12 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/giitsolu/public_html/code/assign.php on line 14
+[30-May-2022 11:35:13 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/giitsolu/public_html/code/assign.php on line 7
+[30-May-2022 11:35:13 Asia/Kolkata] PHP Notice:  Undefined index: m1 in /home/giitsolu/public_html/code/assign.php on line 8
+[30-May-2022 11:35:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/giitsolu/public_html/code/assign.php on line 13
+[30-May-2022 11:35:13 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/giitsolu/public_html/code/assign.php on line 14
+[30-May-2022 11:35:45 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/giitsolu/public_html/code/assign.php on line 7
+[30-May-2022 11:35:45 Asia/Kolkata] PHP Notice:  Undefined index: m1 in /home/giitsolu/public_html/code/assign.php on line 8
+[30-May-2022 11:35:45 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/giitsolu/public_html/code/assign.php on line 13
+[30-May-2022 11:35:45 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/giitsolu/public_html/code/assign.php on line 14
+[30-May-2022 11:36:14 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/giitsolu/public_html/code/assign.php on line 7
+[30-May-2022 11:36:14 Asia/Kolkata] PHP Notice:  Undefined index: m1 in /home/giitsolu/public_html/code/assign.php on line 8
+[30-May-2022 11:36:14 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/giitsolu/public_html/code/assign.php on line 13
+[30-May-2022 11:36:14 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/giitsolu/public_html/code/assign.php on line 14
+[30-May-2022 11:36:26 Asia/Kolkata] PHP Notice:  Undefined index: source1 in /home/giitsolu/public_html/code/final.php on line 20
+[30-May-2022 11:36:26 Asia/Kolkata] PHP Notice:  Undefined index: source2 in /home/giitsolu/public_html/code/final.php on line 21
+[30-May-2022 11:36:26 Asia/Kolkata] PHP Notice:  Undefined index: test1 in /home/giitsolu/public_html/code/final.php on line 22
+[30-May-2022 11:36:26 Asia/Kolkata] PHP Notice:  Undefined index: test2 in /home/giitsolu/public_html/code/final.php on line 23
+[30-May-2022 11:39:24 Asia/Kolkata] PHP Notice:  Undefined index: can_namecode in /home/giitsolu/public_html/code/assign.php on line 29
+[30-May-2022 11:39:31 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/giitsolu/public_html/code/assign.php on line 7
+[30-May-2022 11:39:31 Asia/Kolkata] PHP Notice:  Undefined index: m1 in /home/giitsolu/public_html/code/assign.php on line 8
+[30-May-2022 11:39:31 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/giitsolu/public_html/code/assign.php on line 13
+[30-May-2022 11:39:31 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/giitsolu/public_html/code/assign.php on line 14
+[30-May-2022 11:39:38 Asia/Kolkata] PHP Notice:  Undefined index: source1 in /home/giitsolu/public_html/code/final.php on line 20
+[30-May-2022 11:39:38 Asia/Kolkata] PHP Notice:  Undefined index: source2 in /home/giitsolu/public_html/code/final.php on line 21
+[30-May-2022 11:39:38 Asia/Kolkata] PHP Notice:  Undefined index: test1 in /home/giitsolu/public_html/code/final.php on line 22
+[30-May-2022 11:39:38 Asia/Kolkata] PHP Notice:  Undefined index: test2 in /home/giitsolu/public_html/code/final.php on line 23
+[30-May-2022 11:40:09 Asia/Kolkata] PHP Notice:  Undefined index: can_namecode in /home/giitsolu/public_html/code/assign.php on line 29
+[30-May-2022 11:40:13 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/giitsolu/public_html/code/assign.php on line 7
+[30-May-2022 11:40:13 Asia/Kolkata] PHP Notice:  Undefined index: m1 in /home/giitsolu/public_html/code/assign.php on line 8
+[30-May-2022 11:40:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/giitsolu/public_html/code/assign.php on line 13
+[30-May-2022 11:40:13 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/giitsolu/public_html/code/assign.php on line 14
+[30-May-2022 11:44:28 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/giitsolu/public_html/code/assign.php on line 7
+[30-May-2022 11:44:28 Asia/Kolkata] PHP Notice:  Undefined index: m1 in /home/giitsolu/public_html/code/assign.php on line 8
+[30-May-2022 11:44:28 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/giitsolu/public_html/code/assign.php on line 13
+[30-May-2022 11:44:28 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/giitsolu/public_html/code/assign.php on line 14
+[30-May-2022 11:46:02 Asia/Kolkata] PHP Notice:  Undefined index: can_namecode in /home/giitsolu/public_html/code/assign.php on line 29
+[30-May-2022 11:46:13 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/giitsolu/public_html/code/assign.php on line 7
+[30-May-2022 11:46:13 Asia/Kolkata] PHP Notice:  Undefined index: m1 in /home/giitsolu/public_html/code/assign.php on line 8
+[30-May-2022 11:46:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/giitsolu/public_html/code/assign.php on line 13
+[30-May-2022 11:46:13 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/giitsolu/public_html/code/assign.php on line 14
+[30-May-2022 06:16:14 UTC] PHP Notice:  Undefined variable: con in /home/giitsolu/public_html/code/result.php on line 16
+[30-May-2022 06:16:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/giitsolu/public_html/code/result.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/giitsolu/public_html/code/result.php on line 16
+[30-May-2022 06:23:07 UTC] PHP Notice:  Undefined variable: con in /home/giitsolu/public_html/code/result.php on line 16
+[30-May-2022 06:23:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/giitsolu/public_html/code/result.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/giitsolu/public_html/code/result.php on line 16
+[30-May-2022 06:30:18 UTC] PHP Notice:  Undefined variable: con in /home/giitsolu/public_html/code/result.php on line 16
+[30-May-2022 06:30:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/giitsolu/public_html/code/result.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/giitsolu/public_html/code/result.php on line 16
+[30-May-2022 12:00:21 Asia/Kolkata] PHP Notice:  Undefined index: test2 in /home/giitsolu/public_html/code/final.php on line 23
+[30-May-2022 12:01:16 Asia/Kolkata] PHP Notice:  Undefined index: source1 in /home/giitsolu/public_html/code/final.php on line 20
+[30-May-2022 12:01:16 Asia/Kolkata] PHP Notice:  Undefined index: source2 in /home/giitsolu/public_html/code/final.php on line 21
+[30-May-2022 12:01:16 Asia/Kolkata] PHP Notice:  Undefined index: test1 in /home/giitsolu/public_html/code/final.php on line 22
+[30-May-2022 12:01:16 Asia/Kolkata] PHP Notice:  Undefined index: test2 in /home/giitsolu/public_html/code/final.php on line 23
+[30-May-2022 12:04:31 Asia/Kolkata] PHP Notice:  Undefined index: source1 in /home/giitsolu/public_html/code/final.php on line 20
+[30-May-2022 12:04:31 Asia/Kolkata] PHP Notice:  Undefined index: source2 in /home/giitsolu/public_html/code/final.php on line 21
+[30-May-2022 12:04:31 Asia/Kolkata] PHP Notice:  Undefined index: test1 in /home/giitsolu/public_html/code/final.php on line 22
+[30-May-2022 12:04:31 Asia/Kolkata] PHP Notice:  Undefined index: test2 in /home/giitsolu/public_html/code/final.php on line 23
+[30-May-2022 12:05:26 Asia/Kolkata] PHP Notice:  Undefined index: can_namecode in /home/giitsolu/public_html/code/assign.php on line 29
+[30-May-2022 12:05:46 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/giitsolu/public_html/code/assign.php on line 7
+[30-May-2022 12:05:46 Asia/Kolkata] PHP Notice:  Undefined index: m1 in /home/giitsolu/public_html/code/assign.php on line 8
+[30-May-2022 12:05:46 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/giitsolu/public_html/code/assign.php on line 13
+[30-May-2022 12:05:46 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/giitsolu/public_html/code/assign.php on line 14
+[30-May-2022 12:05:50 Asia/Kolkata] PHP Notice:  Undefined index: source2 in /home/giitsolu/public_html/code/final.php on line 21
+[30-May-2022 12:05:50 Asia/Kolkata] PHP Notice:  Undefined index: test2 in /home/giitsolu/public_html/code/final.php on line 23
+[30-May-2022 06:36:06 UTC] PHP Notice:  Undefined index: email in /home/giitsolu/public_html/code/feedbacksubmit.php on line 6
+[30-May-2022 12:32:19 Asia/Kolkata] PHP Notice:  Undefined index: can_namecode in /home/giitsolu/public_html/code/assign.php on line 29
+[30-May-2022 12:32:25 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/giitsolu/public_html/code/assign.php on line 7
+[30-May-2022 12:32:25 Asia/Kolkata] PHP Notice:  Undefined index: m1 in /home/giitsolu/public_html/code/assign.php on line 8
+[30-May-2022 12:32:25 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/giitsolu/public_html/code/assign.php on line 13
+[30-May-2022 12:32:25 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/giitsolu/public_html/code/assign.php on line 14
+[30-May-2022 07:12:21 UTC] PHP Notice:  Undefined variable: con in /home/giitsolu/public_html/code/result.php on line 16
+[30-May-2022 07:12:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/giitsolu/public_html/code/result.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/giitsolu/public_html/code/result.php on line 16
+[30-May-2022 12:42:24 Asia/Kolkata] PHP Notice:  Undefined index: source2 in /home/giitsolu/public_html/code/final.php on line 21
+[30-May-2022 12:42:24 Asia/Kolkata] PHP Notice:  Undefined index: test2 in /home/giitsolu/public_html/code/final.php on line 23

@@ -1,0 +1,99 @@
+body{
+   background-image:url("../images/bg.png");
+   background-repeat:no-repeat;
+   background-size:cover;
+}
+#main{
+    width:450px; 
+    background-color: white;
+    padding-top:5px;
+    padding-bottom:5px;
+    margin-left:350px;
+}
+.feedback {
+    background-color :#2B3856;
+    color: #ffffff;
+    padding: 10px 20px;
+    border-radius: 10px;
+    float:right;
+    margin-top:10px;
+    margin-right:6px;
+    font-family: 'Open Sans',sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.85714285714286;
+    text-decoration: inherit;
+    box-shadow:0px 12px 24px -8px rgb(59 79 228 / 40%);
+    box-sizing: border-box;
+    cursor:pointer;
+}
+
+.feedback:hover{
+    background-color:#DDE0EF;
+    color:#2B3856;
+    cursor: pointer;
+}
+.feedback2{
+     background-color:#2B3856;
+     color: white;
+     padding: 10px 20px;
+     border-radius: 12px;
+     font-family: 'Open Sans',sans-serif;
+     font-weight: 400;
+     font-size: 20px;
+     line-height: 1.85714285714286;
+     text-decoration: none;
+     box-shadow:0px 12px 24px -8px rgb(59 79 228 / 40%);
+     box-sizing: border-box;
+     cursor:pointer;
+  }
+  
+.feedback2:hover{
+    background-color:#DDE0EF;
+    color:#2B3856;
+    cursor: pointer;
+}
+  
+@media only screen and (max-width: 600px) {
+    body{
+       background-image:url("https://www.researchgate.net/profile/Jose-Fernandez-68/publication/279916406/figure/fig3/AS:616374057566217@1523966435568/figure-fig3_Q320.jpg");
+       /*background-repeat:no-repeat;*/
+       /*background-size:cover;*/
+       margin-bottom:200px;
+    }
+    .w-50 {
+        width:revert;
+    }
+    .text-cent{
+      font-family:sans-serif;
+      margin-top:-40px; 
+      font-size:1px;
+      color:red;
+    }
+}
+
+.feed {
+    background-color :  #3b4fe4;
+    color: #ffffff;
+    padding: 10px 20px;
+    border-radius: 12px;
+    float:left;
+    margin-top:10px;
+    margin-left:40px;
+    font-family: 'Open Sans',sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.85714285714286;
+    text-decoration: inherit;
+    box-shadow: 0px 12px 24px -8px rgb(59 79 228 / 40%);
+    box-sizing: border-box;
+    cursor:pointer;
+}
+
+.startbtn:hover{
+  font-size: 1.3rem;
+}
+
+#mybutton {
+  margin-top:-10px;
+}     

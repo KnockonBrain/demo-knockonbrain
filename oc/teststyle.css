@@ -1,0 +1,102 @@
+*{
+    margin:0;
+    padding: 0;
+    background-color: #f3f7f7;
+}
+.header{
+    height: 60px;
+    background: #39424e;
+    color:white;
+    padding: 15px 15px;
+}
+.heading{
+    background-color:#39424e ;
+    position: absolute;
+    top:25px;
+    font-size: 32px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    cursor: pointer;
+}
+.clock-icon{
+    color:white;
+    background-color:#39424e ;
+    position: absolute;
+    top:25px;
+    right:140px;
+    font-size:45px !important;
+}
+.clock-time{
+    color:white;
+    background-color:#39424e ;
+    position: absolute;
+    top:35px;
+    right:20px; 
+    font-size:24px;
+}
+.sub-btn{
+    position:absolute;
+    right:635px;
+    top:520px;
+    border-radius: 2px;
+    background-color: #b94545;
+    color: #fff;
+    padding: 12px 20px;
+    border: 1px solid #b94545;
+    box-shadow: 0 4px 12px 0 rgba(180, 45, 45, 0.561);
+    font-family: monaco,Courier,monospace;
+    font-weight: 700;
+    font-size: 24px;
+    cursor: pointer;
+}
+.disclaimer{
+    color:black;
+    position:relative;
+    margin-left:400px;
+    font-size:20px;
+    font-family: Georgia, serif;
+}
+.panel{
+    position: relative;
+    margin-top:30px;
+    margin-bottom:30px;
+    margin-right:125px;
+    margin-left:125px;
+    background-color: white;
+    height: 100px;
+    padding: 15px 15px;
+    border-radius: 2px;
+}
+.head{
+    color: #0e141e;
+    background-color: white;
+    font-weight: 600;
+    line-height: 1.4;
+    font-size: 26px;
+    display: block;
+    margin-bottom: 5px;
+    font-family: Arial,Helvetica,sans-serif;
+}
+.content{
+    background-color: white;
+    display: inline-block;
+    width: 83%;
+    color: #576871;
+    font-size: 18px;
+}
+.btn{
+    border-radius: 2px;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 40px;
+    text-decoration: none;
+    background-color: #1ba94c;
+    color: #fff;
+    padding: 15px 20px;
+    border: 1px solid #1ba94c;
+    box-shadow: 0 4px 12px 0 rgba(27,169,76,.5);
+    font-family: monaco,Courier,monospace;
+    font-weight: 700;
+    font-size: 18px;
+}
