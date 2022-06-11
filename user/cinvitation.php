@@ -106,7 +106,7 @@ $mail->SMTPOptions = array(
                   
 //FROM email
 //$mail->setFrom("info@praveen.giitsolution.com");
-$mail->setFrom("info@knockonbrain.com");
+$mail->setFrom("test@avianglobes.com");
 
 
 
