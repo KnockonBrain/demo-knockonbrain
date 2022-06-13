@@ -264,8 +264,10 @@ foreach($res as $m)
 			//For client not supporting HTML rendering.
 		//	$mail->Body="Heelooo";
 			//$mail->AltBody = "Test Link: ".$result['link']."?m1=".$m['email']."&cid=".$cid."&tid=".$tid."  Test email: ".$m['email']."  Company Name: ".$cname;
-		     $mail->AltBody = "Test Link: ".$result."?cid=".$cid."&id=".$resultid."&lang=".$lang."&m1=".$m['email']."  Test email: ".$m['email']."  Company Name: ".$cname;
+		   //  $mail->AltBody = "Test Link: ".$result."?cid=".$cid."&id=".$resultid."&lang=".$lang."&m1=".$m['email']."  Test email: ".$m['email']."  Company Name: ".$cname;
+           $mail->AltBody = "Test Link: ".$build." Test email: ".$m['email']."  Company Name: ".$company;
 			
+           $testlink=$build."&m1=".null;
 			
 			echo "<tr><td>".$m['email']."</td>";
 			
