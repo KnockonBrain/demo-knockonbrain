@@ -91,7 +91,7 @@ $mail->SMTPOptions = array(
 // $mail->SMTPDebug=3;
    $mail->isSMTP();                                            // Send using SMTP
    
-   $mail->Host       = 'sg3plcpnl0095.prod.sin3.secureserver.net/';// Set the SMTP server to send through
+   $mail->Host       = 'sg3plcpnl0095.prod.sin3.secureserver.net';// Set the SMTP server to send through
     //$mail->Host       = '	mail.avian-global.com';
     $mail->SMTPAuth   = true;                                   // Enable SMTP authentication
    //$mail->Username   = 'info@praveen.giitsolution.com';                     // SMTP username
