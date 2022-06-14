@@ -115,16 +115,16 @@ if(isset($_POST['password-reset-token']) && $_POST['email'])
    
     $mail->SMTPAuth = true;                  
     
-    $mail->Username = "info@knockonbrain.com";
+    $mail->Username = "test@avianglobes.com";
     
-    $mail->Password = "knockonbrain";
+    $mail->Password = "avian@6790";
     $mail->SMTPSecure = "tls";  
     
-    $mail->Host = 'cluster.ownmyserver.com';
+    $mail->Host = 'sg3plcpnl0095.prod.sin3.secureserver.net';
     
-    $mail->Port = "587";
-    $mail->From='info@knockonbrain.com';
-    $mail->FromName='KnockonBrain';
+    $mail->Port = "465";
+    $mail->From='test@avianglobes.com';
+    $mail->FromName='avian@6790';
     $mail->AddAddress($emailId, '');
     $mail->Subject  =  'Reset Password';
     $mail->IsHTML(true);
