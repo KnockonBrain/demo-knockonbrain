@@ -1,3 +1,4 @@
+<?php include('config.php') ?>
 <?php
 ob_start();
 session_start();
@@ -9,8 +10,8 @@ if(isMobile()){
     //echo 'hello';
 }
 $ques = array();
-$ques[0] = $_SESSION['qid1'];
-$ques[1] = $_SESSION['qid2'];
+$ques[0]=$_SESSION['qid1'];
+$ques[1]=$_SESSION['qid2'];
 $cid=$_SESSION['cid'];
 $exp=$_SESSION['exp'];
 $m1=$_SESSION['email'];

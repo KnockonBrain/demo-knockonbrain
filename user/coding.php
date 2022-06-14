@@ -573,31 +573,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
         </div>
     </div>
-<!--End of Instructions-->
-    <script>/*
-        $("#invite").click(function(e) {
-    e.preventDefault();
-      /*  var cid = $('#name').val();
-    var email = $('#email').val();
-    var phone = $('#phone').val();
-    var city = $('#city').val();
-    $.ajax({
-        type: "POST",
-        url: "https://praveen.giitsolution.com/<?php echo $current_user->user_nicename;?>/sendmail",
-        data: { 
-            cid: "<?php echo $current_user->ID;?>";
-            tid:"<?php echo $tid;?>";
-            date:"<?php echo $date;?>";
-            count:"<?php echo $count;?>";
-        },
-        success: function(result) {
-            alert('ok');
-        },
-        error: function(result) {
-            alert('error');
-        }
-    });
-});*/
+
     </script>
    
    

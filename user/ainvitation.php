@@ -53,7 +53,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       }
   }
   
-
+ 
 </style>
 <!--End of Tawk.to Script-->
 <!-- End of Async Drift Code -->
@@ -366,12 +366,11 @@ foreach($res as $m)
 			
 			$testlink=$build."&m1=".null;
 			echo "<tr><td>".$m['email']."</td>";
-			
 	       
 		
 			if($mail->send())
 			{
-			    echo "<td>SUCCESS</td>";
+			    echo "<td>SUCCESS</td>";    
 			}
 			else
 			{
